@@ -1,0 +1,388 @@
+{
+  "A2": {
+    "schreiben": [
+      {
+        "id": "postkarte",
+        "title": "Postkarte",
+        "instruction": "Schreiben Sie eine Postkarte an einen Freund (30-40 Wörter). Sie sind im Urlaub. Schreiben Sie: Wo sind Sie? Wie ist das Wetter? Was machen Sie?",
+        "min_words": 30,
+        "max_words": 40
+      },
+      {
+        "id": "email_kurs",
+        "title": "E-Mail an Sprachschule",
+        "instruction": "Schreiben Sie eine E-Mail an eine Sprachschule (40-50 Wörter). Fragen Sie nach: Kurszeiten, Preis, Kursniveau.",
+        "min_words": 40,
+        "max_words": 50
+      }
+    ],
+    "sprechen": [
+      {
+        "id": "vorstellung",
+        "title": "Sich vorstellen",
+        "instruction": "Stellen Sie sich vor. Sprechen Sie über: Name, Herkunft, Beruf, Familie, Hobbys.",
+        "time_seconds": 60
+      }
+    ]
+  },
+  "B1": {
+    "schreiben": [
+      {
+        "id": "brief_freund",
+        "title": "Brief an einen Freund",
+        "instruction": "Schreiben Sie einen Brief an einen Freund (80-100 Wörter). Sie haben eine neue Wohnung. Beschreiben Sie: Wo liegt die Wohnung? Wie ist sie? Was gefällt Ihnen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "forum_beitrag",
+        "title": "Forumsbeitrag",
+        "instruction": "Schreiben Sie einen Forumsbeitrag (80-100 Wörter) zum Thema: 'Leben in der Stadt oder auf dem Land – was ist besser?' Geben Sie Ihre Meinung und nennen Sie Gründe.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "beschwerde",
+        "title": "Beschwerdebrief",
+        "instruction": "Schreiben Sie einen Beschwerdebrief (80-100 Wörter). Sie haben ein Produkt bestellt, aber es ist beschädigt angekommen. Beschreiben Sie das Problem und fragen Sie nach einer Lösung.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "einladung_geburtstag",
+        "title": "Einladung zur Geburtstagsfeier",
+        "instruction": "Schreiben Sie eine E-Mail an einen Freund / eine Freundin (80-100 Wörter). Laden Sie ihn/sie zu Ihrer Geburtstagsfeier ein. Schreiben Sie: Wann und wo findet die Feier statt? Was soll er/sie mitbringen? Warum freuen Sie sich auf das Treffen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "kurs_anfrage",
+        "title": "Kursanfrage",
+        "instruction": "Schreiben Sie eine E-Mail an ein Fitnessstudio (80-100 Wörter). Sie möchten sich für einen Kurs anmelden. Fragen Sie nach: Kurszeiten und Kursarten, Preisen, ob ein Probetraining möglich ist.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "verabredung_absagen",
+        "title": "Verabredung absagen",
+        "instruction": "Schreiben Sie eine E-Mail an einen Freund / eine Freundin (80-100 Wörter). Sie müssen eine Verabredung absagen. Erklären Sie: Warum können Sie nicht kommen? Entschuldigen Sie sich. Machen Sie einen neuen Termin vor.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "urlaub_planen",
+        "title": "Urlaubsplanung",
+        "instruction": "Schreiben Sie eine E-Mail an einen Freund / eine Freundin (80-100 Wörter). Sie möchten gemeinsam Urlaub machen. Schreiben Sie: Wohin möchten Sie fahren? Wann wäre es möglich? Was würden Sie gerne zusammen unternehmen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "dankesbrief",
+        "title": "Dankesbrief",
+        "instruction": "Schreiben Sie einen Brief an Ihre Gastfamilie (80-100 Wörter). Sie haben einen Monat bei einer deutschen Familie gewohnt. Bedanken Sie sich: Für die Unterkunft, für die Hilfe beim Deutschlernen, für ein besonderes Erlebnis.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "entschuldigung_schule",
+        "title": "Entschuldigung an Sprachschule",
+        "instruction": "Schreiben Sie eine E-Mail an Ihre Sprachschule (80-100 Wörter). Sie waren krank und haben den Kurs verpasst. Erklären Sie: Wie lange waren Sie krank? Bitten Sie um die verpassten Materialien. Fragen Sie, wann Sie den Test nachholen können.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "vermieter_problem",
+        "title": "Brief an Vermieter",
+        "instruction": "Schreiben Sie einen Brief an Ihren Vermieter (80-100 Wörter). In Ihrer Wohnung gibt es ein Problem (z.B. die Heizung funktioniert nicht). Beschreiben Sie das Problem, seit wann es existiert, und bitten Sie um eine schnelle Lösung.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "hilfe_anbieten",
+        "title": "Hilfe anbieten",
+        "instruction": "Schreiben Sie eine E-Mail an einen neuen Bekannten / eine neue Bekannte (80-100 Wörter). Er/sie ist neu in der Stadt. Bieten Sie Ihre Hilfe an: Was können Sie zeigen? Wann hätten Sie Zeit? Was empfehlen Sie in der Stadt?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "wohnungssuche",
+        "title": "Wohnungssuche",
+        "instruction": "Schreiben Sie eine E-Mail an eine Wohnungsagentur (80-100 Wörter). Sie suchen eine neue Wohnung. Beschreiben Sie Ihre Wünsche: Wie groß soll die Wohnung sein? In welchem Stadtteil? Wie viel möchten Sie maximal zahlen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "arzttermin_absagen",
+        "title": "Arzttermin absagen",
+        "instruction": "Schreiben Sie eine E-Mail an eine Arztpraxis (80-100 Wörter). Sie müssen einen Termin absagen. Erklären Sie warum. Bitten Sie um einen neuen Termin und nennen Sie mögliche Zeiten.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "sportverein_beitritt",
+        "title": "Sportverein beitreten",
+        "instruction": "Schreiben Sie eine E-Mail an einen Sportverein (80-100 Wörter). Sie möchten Mitglied werden. Fragen Sie nach: Welche Sportarten werden angeboten? Wie hoch ist der Mitgliedsbeitrag? Wann können Sie vorbeikommen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "stadtfest_vorschlag",
+        "title": "Vorschlag für Stadtfest",
+        "instruction": "Schreiben Sie eine E-Mail an Ihren Freund / Ihre Freundin (80-100 Wörter). In Ihrer Stadt gibt es ein Stadtfest. Beschreiben Sie: Was findet statt? Wann und wo? Warum sollte er/sie mitkommen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "buch_empfehlung",
+        "title": "Buchempfehlung",
+        "instruction": "Schreiben Sie eine E-Mail an einen Freund / eine Freundin (80-100 Wörter). Sie haben ein tolles Buch gelesen. Empfehlen Sie es: Worum geht es? Warum hat es Ihnen gefallen? Warum sollte er/sie es auch lesen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "umzug_mitteilung",
+        "title": "Umzug mitteilen",
+        "instruction": "Schreiben Sie eine E-Mail an einen alten Freund / eine alte Freundin (80-100 Wörter). Sie sind umgezogen. Schreiben Sie: In welche Stadt/Stadtteil? Warum sind Sie umgezogen? Laden Sie ihn/sie ein, Sie zu besuchen.",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "kochkurs_anfrage",
+        "title": "Kochkurs anfragen",
+        "instruction": "Schreiben Sie eine E-Mail an eine Volkshochschule (80-100 Wörter). Sie interessieren sich für einen Kochkurs. Fragen Sie nach: Wann findet der Kurs statt? Für welche Küche (z.B. italienisch, asiatisch)? Was wird im Kurs gemacht?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "praktikum_bewerbung",
+        "title": "Praktikumsbewerbung",
+        "instruction": "Schreiben Sie eine E-Mail an eine Firma (80-100 Wörter). Sie bewerben sich für ein Praktikum. Schreiben Sie: Wer Sie sind, was Sie studieren. Warum interessiert Sie diese Firma? Wann könnten Sie anfangen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "reiseerfahrung_teilen",
+        "title": "Reiseerfahrung teilen",
+        "instruction": "Schreiben Sie eine E-Mail an einen Freund / eine Freundin (80-100 Wörter). Sie sind gerade aus dem Urlaub zurückgekehrt. Schreiben Sie: Wo waren Sie? Was war das Schönste? Was würden Sie beim nächsten Mal anders machen?",
+        "min_words": 80,
+        "max_words": 100
+      },
+      {
+        "id": "konzert_einladung",
+        "title": "Konzert / Veranstaltung einladen",
+        "instruction": "Schreiben Sie eine E-Mail an einen Freund / eine Freundin (80-100 Wörter). Sie haben zwei Tickets für ein Konzert oder eine Veranstaltung. Beschreiben Sie die Veranstaltung. Laden Sie ihn/sie ein und nennen Sie Datum, Uhrzeit und Treffpunkt.",
+        "min_words": 80,
+        "max_words": 100
+      }
+    ],
+    "sprechen": [
+      {
+        "id": "thema_meinung",
+        "title": "Meinung äußern",
+        "instruction": "Äußern Sie Ihre Meinung zum Thema: 'Sollten alle Autos in Städten verboten werden?' Nennen Sie Argumente dafür und dagegen.",
+        "time_seconds": 120
+      },
+      {
+        "id": "bild_beschreiben",
+        "title": "Bild beschreiben",
+        "instruction": "Beschreiben Sie das Bild: Menschen in einem Park. Was sehen Sie? Was machen die Personen? Wie ist die Stimmung?",
+        "time_seconds": 90
+      },
+      {
+        "id": "praes_gesundheit",
+        "title": "🎤 Präsentation: Gesundheit",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Gesundheit\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Was bedeutet Gesundheit für Sie?\n• Was tun Sie für Ihre Gesundheit?\n• Welche Vor- und Nachteile hat ein gesunder Lebensstil?\n• Welche Tipps haben Sie für andere?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele aus Ihrem Leben.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_sport",
+        "title": "🎤 Präsentation: Sport und Bewegung",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Sport und Bewegung\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Welchen Sport treiben Sie? Warum?\n• Was sind die Vorteile von Sport?\n• Wie wichtig ist Bewegung im Alltag?\n• Welche Sportart würden Sie gerne ausprobieren?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_reisen",
+        "title": "🎤 Präsentation: Reisen und Urlaub",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Reisen und Urlaub\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wohin reisen Sie am liebsten?\n• Was ist für Sie beim Reisen wichtig?\n• Beschreiben Sie eine unvergessliche Reise.\n• Strand, Berge oder Städtereise – was bevorzugen Sie und warum?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_arbeit",
+        "title": "🎤 Präsentation: Arbeit und Beruf",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Arbeit und Beruf\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Was ist Ihr Beruf oder was möchten Sie werden?\n• Was ist Ihnen bei der Arbeit wichtig?\n• Homeoffice oder Büro – was ist besser?\n• Wie sieht Ihr idealer Arbeitstag aus?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_familie",
+        "title": "🎤 Präsentation: Familie und Freunde",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Familie und soziale Beziehungen\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wie wichtig ist Familie für Sie?\n• Beschreiben Sie Ihre Familie oder Freunde.\n• Wie verbringen Sie Zeit mit Ihrer Familie?\n• Was sind typische Familientraditionen in Ihrer Heimat?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_umwelt",
+        "title": "🎤 Präsentation: Umwelt und Natur",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Umwelt und Natur\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Was tun Sie persönlich für die Umwelt?\n• Welche Umweltprobleme sehen Sie in Ihrer Stadt?\n• Recycling, Fahrrad, vegetarisch – wie wichtig sind solche Maßnahmen?\n• Was sollte die Politik tun?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_internet",
+        "title": "🎤 Präsentation: Internet und Technologie",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Internet und moderne Technologie\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wie nutzen Sie das Internet im Alltag?\n• Welche Vorteile und Nachteile hat das Internet?\n• Soziale Medien – Fluch oder Segen?\n• Können Sie sich ein Leben ohne Smartphone vorstellen?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_essen",
+        "title": "🎤 Präsentation: Essen und Trinken",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Essen und Ernährung\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Was essen Sie am liebsten?\n• Kochen Sie selbst oder gehen Sie lieber ins Restaurant?\n• Wie wichtig ist gesunde Ernährung für Sie?\n• Beschreiben Sie ein typisches Gericht aus Ihrer Heimat.\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_wohnen",
+        "title": "🎤 Präsentation: Wohnen und Leben",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Wohnen\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wo und wie wohnen Sie?\n• Was ist Ihnen bei einer Wohnung wichtig?\n• Stadt oder Land – wo möchten Sie leben?\n• Beschreiben Sie Ihre ideale Wohnung.\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_bildung",
+        "title": "🎤 Präsentation: Bildung und Schule",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Bildung und Lernen\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wie war Ihre Schulzeit?\n• Was ist für Sie gute Bildung?\n• Wie lernen Sie Deutsch – und warum?\n• Welche Fächer/Themen interessieren Sie besonders?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_freizeit",
+        "title": "🎤 Präsentation: Freizeit und Hobbys",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Freizeit und Hobbys\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Was machen Sie in Ihrer Freizeit?\n• Haben Sie ein besonderes Hobby? Beschreiben Sie es.\n• Wie wichtig ist Freizeit für Sie?\n• Was würden Sie gerne in Ihrer Freizeit noch ausprobieren?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_medien",
+        "title": "🎤 Präsentation: Medien und Fernsehen",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Medien im Alltag\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Welche Medien nutzen Sie täglich (TV, Internet, Zeitung)?\n• Wie informieren Sie sich über aktuelle Nachrichten?\n• Wie viel Zeit verbringen Sie mit Medien?\n• Soziale Medien – wie wichtig sind sie für Sie?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_verkehr",
+        "title": "🎤 Präsentation: Verkehr und Mobilität",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Verkehr und Mobilität\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wie kommen Sie zur Arbeit oder zur Schule?\n• Auto, Bus, Fahrrad oder zu Fuß – was bevorzugen Sie?\n• Was sind die Probleme des heutigen Stadtverkehrs?\n• Wie kann man Verkehr umweltfreundlicher machen?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_geld",
+        "title": "🎤 Präsentation: Geld und Einkaufen",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Geld und Konsum\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Wie gehen Sie mit Geld um?\n• Online-Shopping oder Einkaufen im Laden – was ist besser?\n• Was kaufen Sie regelmäßig? Worauf sparen Sie?\n• Wie wichtig ist Geld für Ihr Glück?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_feste",
+        "title": "🎤 Präsentation: Feste und Traditionen",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Feste und Traditionen\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Welche Feste feiern Sie in Ihrer Familie?\n• Beschreiben Sie ein Fest aus Ihrer Heimat.\n• Wie feiert man in Deutschland? Was finden Sie interessant/seltsam?\n• Welches Fest gefällt Ihnen am besten und warum?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_tiere",
+        "title": "🎤 Präsentation: Tiere und Haustiere",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Tiere und Haustiere\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Haben Sie ein Haustier oder hätten Sie gerne eines?\n• Was sind die Vor- und Nachteile von Haustieren?\n• Wie wichtig ist Tierschutz für Sie?\n• Welches Tier fasziniert Sie und warum?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "praes_musik",
+        "title": "🎤 Präsentation: Musik und Kultur",
+        "instruction": "🎤 TEIL 1 – PRÄSENTATION\n\nThema: Musik und Kultur\n\nSprechen Sie ca. 2 Minuten über dieses Thema. Beachten Sie:\n• Welche Musik hören Sie gerne?\n• Spielen Sie ein Instrument oder singen Sie?\n• Gehen Sie ins Kino, Theater oder Konzerte?\n• Welche Rolle spielt Kultur in Ihrem Leben?\n\nSprechen Sie frei und benutzen Sie eigene Beispiele.",
+        "time_seconds": 120
+      },
+      {
+        "id": "dialog_wochenende",
+        "title": "🤝 Dialog: Wochenendausflug planen",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie und ein Freund / eine Freundin möchten ein gemeinsames Wochenende planen.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Wohin möchten Sie fahren? (Stadt, Natur, Museum?)\n• Wie kommen Sie dorthin?\n• Was möchten Sie unternehmen?\n• Wo essen Sie zu Mittag?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_geburtstag",
+        "title": "🤝 Dialog: Geburtstagsfeier organisieren",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie und ein Freund / eine Freundin möchten eine Geburtstagsfeier für eine gemeinsame Person organisieren.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Wo soll die Party stattfinden?\n• Wen laden Sie ein?\n• Was gibt es zu essen und zu trinken?\n• Welche Aktivitäten oder Spiele sind geplant?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_urlaub",
+        "title": "🤝 Dialog: Gemeinsamen Urlaub buchen",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie möchten mit einem Freund / einer Freundin gemeinsam in den Urlaub fahren.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Wohin soll die Reise gehen?\n• Wann und wie lange möchten Sie verreisen?\n• Wie reisen Sie? (Flug, Zug, Auto)\n• Was ist das Budget?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_renovation",
+        "title": "🤝 Dialog: Zimmer / Wohnung einrichten",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie und ein Mitbewohner / eine Mitbewohnerin möchten ein gemeinsames Zimmer neu einrichten.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Welche Möbel brauchen Sie?\n• Welche Farben und welchen Stil möchten Sie?\n• Was kaufen Sie neu, was können Sie selbst machen?\n• Wie viel Geld können Sie ausgeben?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_schule",
+        "title": "🤝 Dialog: Schulausflug planen",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie und ein Mitschüler / eine Mitschülerin sollen einen Ausflug für Ihre Klasse organisieren.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Wohin soll der Ausflug gehen?\n• Wann und wie lange?\n• Wie kommt die Gruppe dorthin?\n• Was sollen alle mitnehmen?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_abschied",
+        "title": "🤝 Dialog: Abschiedsfeier vorbereiten",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Ein gemeinsamer Freund / eine gemeinsame Freundin zieht in eine andere Stadt. Sie möchten eine Abschiedsfeier organisieren.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Wo findet die Feier statt?\n• Wann und wie lange?\n• Was schenken Sie ihm/ihr als Gruppe?\n• Welches Essen wird angeboten?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_sport_event",
+        "title": "🤝 Dialog: Sport-Event besuchen",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie und ein Freund / eine Freundin möchten gemeinsam eine Sportveranstaltung besuchen.\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Welche Veranstaltung möchten Sie besuchen?\n• Wann fahren Sie hin und wie?\n• Was machen Sie vor/nach der Veranstaltung?\n• Wie viel darf es kosten?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      },
+      {
+        "id": "dialog_kurs_waehlen",
+        "title": "🤝 Dialog: Kurs gemeinsam auswählen",
+        "instruction": "🤝 TEIL 2 – GEMEINSAM PLANEN\n\nSituation: Sie und ein Freund / eine Freundin möchten zusammen einen neuen Kurs belegen (z.B. Kochen, Tanzen, Sport, Sprache).\n\nAufgabe: Einigen Sie sich auf folgende Punkte:\n• Welchen Kurs möchten Sie machen?\n• Wann und wo soll er stattfinden?\n• Wie oft in der Woche?\n• Was ist das Ziel – Spaß, Gesundheit, neue Fähigkeiten?\n\nMachen Sie Vorschläge, reagieren Sie auf Gegenvorschläge und kommen Sie zu einer gemeinsamen Entscheidung.",
+        "time_seconds": 180
+      }
+    ]
+  },
+  "B2": {
+    "schreiben": [
+      {
+        "id": "essay_digitalisierung",
+        "title": "Essay: Digitalisierung",
+        "instruction": "Schreiben Sie einen Essay (150-180 Wörter) zum Thema: 'Digitalisierung verändert die Arbeitswelt – Chancen und Risiken'. Nehmen Sie Stellung und begründen Sie Ihre Meinung.",
+        "min_words": 150,
+        "max_words": 180
+      },
+      {
+        "id": "formeller_brief",
+        "title": "Formeller Brief",
+        "instruction": "Schreiben Sie einen formellen Brief (150-180 Wörter) an eine Firma. Sie möchten sich über schlechten Service beschweren und eine Entschädigung fordern.",
+        "min_words": 150,
+        "max_words": 180
+      }
+    ],
+    "sprechen": [
+      {
+        "id": "diskussion_b2",
+        "title": "Diskussion: Klimawandel",
+        "instruction": "Diskutieren Sie über: 'Individuelle Maßnahmen oder staatliche Politik – was ist effektiver gegen den Klimawandel?' Vertreten Sie eine Position und reagieren Sie auf Gegenargumente.",
+        "time_seconds": 180
+      }
+    ]
+  },
+  "C1": {
+    "schreiben": [
+      {
+        "id": "wissenschaft_artikel",
+        "title": "Wissenschaftlicher Kommentar",
+        "instruction": "Schreiben Sie einen akademischen Kommentar (200-250 Wörter) zur These: 'Künstliche Intelligenz wird in 20 Jahren die meisten menschlichen Berufe ersetzen.' Analysieren Sie kritisch und differenzieren Sie.",
+        "min_words": 200,
+        "max_words": 250
+      }
+    ],
+    "sprechen": [
+      {
+        "id": "praesentation",
+        "title": "Präsentation mit Diskussion",
+        "instruction": "Halten Sie eine kurze Präsentation (3-4 Minuten) über ein aktuelles gesellschaftliches Thema Ihrer Wahl. Berücksichtigen Sie verschiedene Perspektiven und ziehen Sie Schlussfolgerungen.",
+        "time_seconds": 240
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "A1": [
+    {
+      "id": "artikel",
+      "name": "🗂 Артикли (der/die/das)",
+      "explanation": "В немецком языке 3 рода — каждое существительное имеет артикль:\n\n*der* — мужской род\n*die* — женский род\n*das* — средний род\n\n📌 Примеры:\n• *der* Mann — мужчина\n• *die* Frau — женщина\n• *das* Kind — ребёнок\n• *der* Tisch — стол\n• *die* Lampe — лампа\n• *das* Buch — книга\n\n💡 Род существительного нужно просто запоминать вместе со словом.",
+      "quiz": [
+        {"question": "___ Hund ist groß.", "options": ["der", "die", "das", "den"], "answer": "der"},
+        {"question": "___ Katze schläft.", "options": ["der", "die", "das", "ein"], "answer": "die"},
+        {"question": "___ Auto ist neu.", "options": ["der", "die", "das", "dem"], "answer": "das"}
+      ],
+      "open": [
+        {"question": "Вставь артикль: ___ Haus ist klein. (дом)", "answer": "Das", "hint": "Haus — средний род"},
+        {"question": "Вставь артикль: ___ Schule ist groß. (школа)", "answer": "Die", "hint": "Schule — женский род"}
+      ]
+    },
+    {
+      "id": "praesens",
+      "name": "🔤 Настоящее время (Präsens)",
+      "explanation": "Глаголы спрягаются по лицам и числам.\n\n*kaufen* (покупать):\n• ich kauf*e* — я покупаю\n• du kauf*st* — ты покупаешь\n• er/sie/es kauf*t* — он/она/оно покупает\n• wir kauf*en* — мы покупаем\n• ihr kauf*t* — вы покупаете\n• sie/Sie kauf*en* — они/Вы покупают\n\n📌 Неправильные глаголы:\n• *sein*: ich bin, du bist, er ist\n• *haben*: ich habe, du hast, er hat",
+      "quiz": [
+        {"question": "Ich ___ Deutsch. (lernen)", "options": ["lerne", "lernst", "lernt", "lernen"], "answer": "lerne"},
+        {"question": "Er ___ ein Buch. (lesen)", "options": ["lese", "liest", "lesen", "lest"], "answer": "liest"},
+        {"question": "Wir ___ Freunde. (sein)", "options": ["bin", "bist", "sind", "ist"], "answer": "sind"}
+      ],
+      "open": [
+        {"question": "Проспрягай: Du ___ (spielen) — ты играешь", "answer": "spielst", "hint": "основа spiel + окончание -st"},
+        {"question": "Проспрягай: Sie (она) ___ (arbeiten) — она работает", "answer": "arbeitet", "hint": "основа arbeit + -et (т.к. основа заканчивается на -t)"}
+      ]
+    },
+    {
+      "id": "verneinung",
+      "name": "❌ Отрицание (nicht/kein)",
+      "explanation": "*nicht* — отрицает глагол, прилагательное или наречие\n*kein/keine* — отрицает существительное (вместо ein/eine)\n\n📌 Примеры:\n• Ich bin *nicht* müde. — Я не устал.\n• Das ist *nicht* gut. — Это нехорошо.\n• Ich habe *kein* Auto. — У меня нет машины.\n• Sie hat *keine* Zeit. — У неё нет времени.\n\n💡 Правило: есть артикль *ein/eine* → отрицай через *kein/keine*.",
+      "quiz": [
+        {"question": "Ich habe ___ Hunger.", "options": ["nicht", "kein", "keine", "nein"], "answer": "kein"},
+        {"question": "Das ist ___ richtig.", "options": ["nicht", "kein", "keine", "nein"], "answer": "nicht"},
+        {"question": "Er hat ___ Schwester.", "options": ["nicht", "kein", "keine", "nein"], "answer": "keine"}
+      ],
+      "open": [
+        {"question": "Сделай отрицательным: Ich trinke Kaffee. (кофе — der Kaffee)", "answer": "Ich trinke keinen Kaffee.", "hint": "существительное с артиклем → kein. Akkusativ муж.р. → keinen"},
+        {"question": "Сделай отрицательным: Das Wetter ist schön.", "answer": "Das Wetter ist nicht schön.", "hint": "отрицаем прилагательное → nicht"}
+      ]
+    },
+    {
+      "id": "nom_akk",
+      "name": "📐 Падежи: Nominativ и Akkusativ",
+      "explanation": "*Nominativ* — кто? что? (подлежащее)\n*Akkusativ* — кого? что? (прямое дополнение)\n\nАртикли меняются только у мужского рода!\n\n| | Nom | Akk |\n|---|---|---|\n| муж. | *der* | *den* |\n| жен. | die | die |\n| ср. | das | das |\n\n📌 Примеры:\n• *Der* Hund beißt *den* Mann.\n• Ich kaufe *die* Lampe. (не меняется)\n• Er liest *das* Buch. (не меняется)",
+      "quiz": [
+        {"question": "Ich sehe ___ Mann.", "options": ["der", "den", "dem", "des"], "answer": "den"},
+        {"question": "___ Hund spielt. (подлежащее)", "options": ["Der", "Den", "Dem", "Des"], "answer": "Der"},
+        {"question": "Sie kauft ___ Tasche.", "options": ["der", "den", "die", "das"], "answer": "die"}
+      ],
+      "open": [
+        {"question": "Вставь артикль: Er trinkt ___ Tee. (der Tee, Akkusativ)", "answer": "den", "hint": "мужской род в Akkusativ → den"},
+        {"question": "Вставь артикль: ___ Lehrer erklärt. (der Lehrer, Nominativ)", "answer": "Der", "hint": "мужской род в Nominativ → Der"}
+      ]
+    },
+    {
+      "id": "wortstellung",
+      "name": "📝 Порядок слов",
+      "explanation": "В немецком глагол всегда стоит на *2-м месте* в главном предложении.\n\n📌 Прямой порядок:\n*Ich* *lerne* heute Deutsch.\n(подлежащее — глагол — остальное)\n\n📌 Инверсия (если на 1-м месте не подлежащее):\n*Heute* *lerne* ich Deutsch.\n(обстоятельство — глагол — подлежащее)\n\n💡 Запомни: что бы ни стояло первым — глагол всегда на 2-м месте!",
+      "quiz": [
+        {"question": "Правильный порядок: (heute / ich / lerne / Deutsch)", "options": ["Ich lerne heute Deutsch.", "Heute lerne ich Deutsch.", "Оба варианта верны.", "Heute ich lerne Deutsch."], "answer": "Оба варианта верны."},
+        {"question": "Найди ошибку:", "options": ["Morgen fahre ich nach Berlin.", "Ich fahre morgen nach Berlin.", "Morgen ich fahre nach Berlin.", "Nach Berlin fahre ich morgen."], "answer": "Morgen ich fahre nach Berlin."},
+        {"question": "Где глагол в предложении 'Am Abend lesen wir ein Buch'?", "options": ["На 1-м месте", "На 2-м месте", "На 3-м месте", "В конце"], "answer": "На 2-м месте"}
+      ],
+      "open": [
+        {"question": "Составь предложение с инверсией: ich / gehe / morgen / ins Kino", "answer": "Morgen gehe ich ins Kino.", "hint": "начни с Morgen, глагол на 2-е место"},
+        {"question": "Исправь ошибку: Heute ich spiele Tennis.", "answer": "Heute spiele ich Tennis.", "hint": "после обстоятельства времени — глагол, потом подлежащее"}
+      ]
+    },
+    {
+      "id": "pronomen",
+      "name": "👤 Личные местоимения",
+      "explanation": "Личные местоимения в Nominativ:\n\n• *ich* — я\n• *du* — ты\n• *er* — он\n• *sie* — она\n• *es* — оно\n• *wir* — мы\n• *ihr* — вы (неформ.)\n• *sie* — они\n• *Sie* — Вы (вежливо)\n\n📌 Замена существительных:\n• Der Mann kommt → *Er* kommt.\n• Die Frau schläft → *Sie* schläft.\n• Das Kind spielt → *Es* spielt.",
+      "quiz": [
+        {"question": "Der Lehrer erklärt. → ___ erklärt.", "options": ["Er", "Sie", "Es", "Wir"], "answer": "Er"},
+        {"question": "Die Kinder spielen. → ___ spielen.", "options": ["Er", "Sie (она)", "Es", "Sie (они)"], "answer": "Sie (они)"},
+        {"question": "Das Buch ist interessant. → ___ ist interessant.", "options": ["Er", "Sie", "Es", "Ihr"], "answer": "Es"}
+      ],
+      "open": [
+        {"question": "Замени: Die Studentin lernt fleißig. → ___ lernt fleißig.", "answer": "Sie", "hint": "die Studentin — женский род → sie"},
+        {"question": "Замени: Peter und Maria kommen. → ___ kommen.", "answer": "Sie", "hint": "несколько людей → sie (они)"}
+      ]
+    },
+    {
+      "id": "zahlen_zeit",
+      "name": "🔢 Числа и время",
+      "explanation": "Числа 1–20:\n*1* eins, *2* zwei, *3* drei, *4* vier, *5* fünf\n*6* sechs, *7* sieben, *8* acht, *9* neun, *10* zehn\n*11* elf, *12* zwölf, *13* dreizehn... *20* zwanzig\n\nДесятки: *30* dreißig, *40* vierzig, *50* fünfzig\n\n⏰ Время:\n• Es ist *drei Uhr* — 3:00\n• Es ist *halb vier* — 3:30 (половина четвёртого!)\n• Es ist *Viertel nach fünf* — 5:15\n• Es ist *Viertel vor sechs* — 5:45\n\n💡 halb vier = 3:30 (не 4:30!)",
+      "quiz": [
+        {"question": "Как будет 15 по-немецки?", "options": ["fünfzehn", "fünfzig", "funfzehn", "fünften"], "answer": "fünfzehn"},
+        {"question": "'halb sieben' — это:", "options": ["7:30", "6:30", "7:00", "6:00"], "answer": "6:30"},
+        {"question": "Как сказать 'четверть четвёртого' (3:15)?", "options": ["halb vier", "Viertel vor vier", "Viertel nach drei", "drei Uhr fünfzehn"], "answer": "Viertel nach drei"}
+      ],
+      "open": [
+        {"question": "Напиши по-немецки: 25", "answer": "fünfundzwanzig", "hint": "в немецком единицы идут перед десятками: fünf-und-zwanzig"},
+        {"question": "Как по-немецки 7:45?", "answer": "Viertel vor acht", "hint": "без четверти восемь = Viertel vor acht"}
+      ]
+    },
+    {
+      "id": "praepositionen_ort",
+      "name": "📍 Предлоги места",
+      "explanation": "Основные предлоги места (где? — Dativ):\n\n• *in* — в (in der Schule — в школе)\n• *an* — у, при (am Fenster — у окна)\n• *auf* — на (auf dem Tisch — на столе)\n• *unter* — под (unter dem Bett — под кроватью)\n• *über* — над (über dem Tisch — над столом)\n• *neben* — рядом (neben der Tür — рядом с дверью)\n• *vor* — перед (vor dem Haus — перед домом)\n• *hinter* — за (hinter dem Stuhl — за стулом)\n\n💡 С вопросом *wo?* (где?) — всегда Dativ.\nС вопросом *wohin?* (куда?) — Akkusativ.",
+      "quiz": [
+        {"question": "Das Buch liegt ___ dem Tisch. (на столе)", "options": ["in", "auf", "an", "über"], "answer": "auf"},
+        {"question": "Die Katze sitzt ___ dem Sofa. (под диваном)", "options": ["auf", "über", "unter", "neben"], "answer": "unter"},
+        {"question": "Er steht ___ dem Fenster. (у окна)", "options": ["in", "auf", "an", "vor"], "answer": "an"}
+      ],
+      "open": [
+        {"question": "Переведи: Книга лежит под стулом. (der Stuhl)", "answer": "Das Buch liegt unter dem Stuhl.", "hint": "под = unter + Dativ. dem Stuhl (м.р. Dativ)"},
+        {"question": "Переведи: Машина стоит перед домом. (das Haus)", "answer": "Das Auto steht vor dem Haus.", "hint": "перед = vor + Dativ. dem Haus (ср.р. Dativ)"}
+      ]
+    }
+  ],
+  "A2": [
+    {
+      "id": "perfekt",
+      "name": "⏮ Прошедшее время (Perfekt)",
+      "explanation": "Perfekt — разговорное прошедшее время.\nОбразуется: *haben/sein* + Partizip II\n\n📌 Partizip II:\n• слабые глаголы: ge- + основа + -t\n  _machen → ge*macht*_\n• сильные глаголы: ge- + основа (изменённая) + -en\n  _fahren → ge*fahren*_\n\n*haben* используется с большинством глаголов:\n• Ich *habe* Deutsch ge*lernt*.\n\n*sein* используется с глаголами движения и изменения состояния:\n• Ich *bin* nach Berlin ge*fahren*.\n• Er *ist* ge*storben*.\n\n💡 Запомни: fahren, gehen, kommen, fliegen, laufen → sein!",
+      "quiz": [
+        {"question": "Ich ___ heute Fußball gespielt.", "options": ["bin", "habe", "hat", "ist"], "answer": "habe"},
+        {"question": "Er ___ nach München gefahren.", "options": ["hat", "habe", "ist", "sind"], "answer": "ist"},
+        {"question": "Partizip II от 'kaufen':", "options": ["gekauft", "gekaufen", "kauft", "gekauff"], "answer": "gekauft"}
+      ],
+      "open": [
+        {"question": "Поставь в Perfekt: Ich lerne Deutsch.", "answer": "Ich habe Deutsch gelernt.", "hint": "lernen — слабый глагол, haben + gelernt"},
+        {"question": "Поставь в Perfekt: Sie geht ins Kino.", "answer": "Sie ist ins Kino gegangen.", "hint": "gehen — глагол движения → sein + gegangen"}
+      ]
+    },
+    {
+      "id": "modalverben",
+      "name": "🔑 Модальные глаголы",
+      "explanation": "Модальные глаголы выражают возможность, необходимость, желание.\n\n| | können | müssen | dürfen | wollen | sollen |\n|---|---|---|---|---|---|\n| ich | kann | muss | darf | will | soll |\n| du | kannst | musst | darfst | willst | sollst |\n| er/sie | kann | muss | darf | will | soll |\n| wir | können | müssen | dürfen | wollen | sollen |\n\n📌 Смысл:\n• *können* — мочь, уметь\n• *müssen* — быть должным (обязанность)\n• *dürfen* — иметь разрешение\n• *wollen* — хотеть\n• *sollen* — должен (по заданию)\n\n💡 Модальный глагол — на 2-м месте, инфинитив — в конце!\n_Ich *kann* gut Deutsch *sprechen*._",
+      "quiz": [
+        {"question": "Du ___ hier nicht rauchen. (запрещено)", "options": ["kannst", "musst", "darfst nicht", "sollst"], "answer": "darfst nicht"},
+        {"question": "Er ___ morgen früh aufstehen. (обязан)", "options": ["kann", "muss", "darf", "will"], "answer": "muss"},
+        {"question": "Ich ___ gut kochen. (умею)", "options": ["muss", "darf", "kann", "soll"], "answer": "kann"}
+      ],
+      "open": [
+        {"question": "Переведи: Ты должен сделать домашнее задание.", "answer": "Du musst die Hausaufgaben machen.", "hint": "обязанность → müssen. Инфинитив в конце"},
+        {"question": "Переведи: Здесь можно парковаться.", "answer": "Hier darf man parken.", "hint": "разрешение → dürfen. man — безличное местоимение"}
+      ]
+    },
+    {
+      "id": "dativ",
+      "name": "📐 Дательный падеж (Dativ)",
+      "explanation": "Dativ отвечает на вопросы *wem?* (кому?) и используется после предлогов mit, bei, von, zu, aus, nach, seit, gegenüber.\n\nАртикли в Dativ:\n| | Nom | Dativ |\n|---|---|---|\n| муж. | der | *dem* |\n| жен. | die | *der* |\n| ср. | das | *dem* |\n| мн.ч. | die | *den* + -n |\n\n📌 Примеры:\n• Ich helfe *dem* Mann. (помогаю кому?)\n• Sie gibt *der* Frau ein Buch.\n• Er spricht mit *dem* Kind.\n• Wir fahren mit *den* Kindern.",
+      "quiz": [
+        {"question": "Ich helfe ___ Frau.", "options": ["die", "der", "dem", "den"], "answer": "der"},
+        {"question": "Er kommt mit ___ Freund.", "options": ["der", "die", "dem", "den"], "answer": "dem"},
+        {"question": "Sie schreibt ___ Kindern. (мн.ч.)", "options": ["die", "der", "das", "den"], "answer": "den"}
+      ],
+      "open": [
+        {"question": "Вставь артикль (Dativ): Er wohnt bei ___ Mutter. (die Mutter)", "answer": "der", "hint": "die Mutter → bei + Dativ → der Mutter"},
+        {"question": "Переведи: Я говорю с учителем. (der Lehrer)", "answer": "Ich spreche mit dem Lehrer.", "hint": "mit + Dativ. der Lehrer → dem Lehrer"}
+      ]
+    },
+    {
+      "id": "adjektive",
+      "name": "🎨 Прилагательные (склонение)",
+      "explanation": "Прилагательные перед существительным согласуются с ним.\n\nПосле определённого артикля (der/die/das):\n| | Nom | Akk |\n|---|---|---|\n| муж. | der alt*e* Mann | den alt*en* Mann |\n| жен. | die alt*e* Frau | die alt*e* Frau |\n| ср. | das alt*e* Kind | das alt*e* Kind |\n\nПосле неопределённого артикля (ein/eine):\n• ein alt*er* Mann (Nom, муж.)\n• eine alt*e* Frau\n• ein alt*es* Kind\n\n💡 Проще: после der/die/das почти всегда окончание *-e* или *-en*.",
+      "quiz": [
+        {"question": "Das ist ein ___ Buch. (interessant)", "options": ["interessante", "interessantes", "interessanter", "interessanten"], "answer": "interessantes"},
+        {"question": "Ich sehe den ___ Mann. (alt)", "options": ["alte", "alten", "alter", "altes"], "answer": "alten"},
+        {"question": "Die ___ Frau lächelt. (jung)", "options": ["jung", "junger", "junge", "junges"], "answer": "junge"}
+      ],
+      "open": [
+        {"question": "Вставь окончание: Er kauft ein rot___ Auto.", "answer": "rotes", "hint": "ein + средний род Akkusativ → ein rotes"},
+        {"question": "Вставь окончание: Die klein___ Katze schläft.", "answer": "kleine", "hint": "die + Nom → die kleine"}
+      ]
+    },
+    {
+      "id": "imperativ",
+      "name": "📢 Повелительное наклонение (Imperativ)",
+      "explanation": "Imperativ — команды и просьбы.\n\n*du*-форма: основа глагола (+ -e для удобства произношения)\n• kommen → *Komm!*\n• arbeiten → *Arbeite!*\n• lesen → *Lies!* (неправильный)\n\n*ihr*-форма: основа + -t\n• kommen → *Kommt!*\n\n*Sie*-форма: инфинитив + Sie\n• kommen → *Kommen Sie!*\n\n📌 Примеры:\n• *Komm* bitte hier! — Иди сюда!\n• *Sprecht* lauter! — Говорите громче!\n• *Öffnen Sie* das Buch! — Откройте книгу!",
+      "quiz": [
+        {"question": "Imperativ (du) от 'gehen':", "options": ["Geh!", "Geht!", "Gehen!", "Gehst!"], "answer": "Geh!"},
+        {"question": "Imperativ (Sie) от 'nehmen':", "options": ["Nimm!", "Nehmt!", "Nehmen Sie!", "Nimmt!"], "answer": "Nehmen Sie!"},
+        {"question": "Imperativ (ihr) от 'schreiben':", "options": ["Schreib!", "Schreiben Sie!", "Schreibt!", "Schreibe!"], "answer": "Schreibt!"}
+      ],
+      "open": [
+        {"question": "Образуй Imperativ (du) от 'aufmachen' (открыть): ___ das Fenster!", "answer": "Mach das Fenster auf!", "hint": "отделяемая приставка уходит в конец: Mach...auf!"},
+        {"question": "Скажи вежливо (Sie): пожалуйста, подождите (warten)", "answer": "Warten Sie bitte!", "hint": "Sie-форма: инфинитив + Sie + bitte"}
+      ]
+    },
+    {
+      "id": "nebensaetze",
+      "name": "🔗 Придаточные (weil/dass/wenn)",
+      "explanation": "В придаточном предложении глагол стоит *в конце*!\n\n*weil* (потому что):\n• Ich lerne Deutsch, *weil* ich in Deutschland arbeiten *will*.\n\n*dass* (что):\n• Ich denke, *dass* er Recht *hat*.\n\n*wenn* (когда/если):\n• *Wenn* es regnet, bleibe ich zu Hause.\n\n💡 Запомни: weil, dass, wenn → глагол в КОНЕЦ предложения!",
+      "quiz": [
+        {"question": "Ich bleibe zu Hause, weil ich krank ___.", "options": ["bin ich", "ich bin", "bin", "ist"], "answer": "bin"},
+        {"question": "Er sagt, dass er morgen ___.", "options": ["kommt er", "er kommt", "kommt", "gekommen"], "answer": "kommt"},
+        {"question": "Союз 'потому что' по-немецки:", "options": ["dass", "wenn", "weil", "aber"], "answer": "weil"}
+      ],
+      "open": [
+        {"question": "Соедини: Ich lerne Deutsch. Ich möchte in Wien leben. (weil)", "answer": "Ich lerne Deutsch, weil ich in Wien leben möchte.", "hint": "weil → глагол в конец. möchte — в самый конец"},
+        {"question": "Переведи: Я думаю, что он придёт завтра.", "answer": "Ich denke, dass er morgen kommt.", "hint": "dass → глагол (kommt) в конец"}
+      ]
+    },
+    {
+      "id": "komparativ",
+      "name": "📊 Сравнение прилагательных",
+      "explanation": "Степени сравнения:\n\n• Положительная: schnell (быстрый)\n• Сравнительная: schnell*er* (быстрее)\n• Превосходная: am schnellsten (самый быстрый)\n\n📌 Примеры:\n• groß → größ*er* → am größ*ten*\n• klein → kleiner → am kleinsten\n• gut → *besser* → am besten (исключение!)\n• viel → *mehr* → am meisten (исключение!)\n\n💡 Конструкции:\n• A ist *so ... wie* B — A такой же ... как B\n• A ist *...er als* B — A ... чем B\n_Deutsch ist schwerer als Englisch._",
+      "quiz": [
+        {"question": "Komparativ от 'alt':", "options": ["alter", "älter", "altest", "am ältesten"], "answer": "älter"},
+        {"question": "München ist ___ als Berlin. (groß)", "options": ["groß", "großer", "größer", "am größten"], "answer": "größer"},
+        {"question": "Superlatif от 'gut':", "options": ["am gutest", "am besten", "am gutsten", "bestest"], "answer": "am besten"}
+      ],
+      "open": [
+        {"question": "Составь предложение: Этот фильм интереснее, чем тот. (interessant)", "answer": "Dieser Film ist interessanter als der.", "hint": "interessant → interessanter + als"},
+        {"question": "Переведи: Он говорит по-немецки лучше всего в классе.", "answer": "Er spricht am besten Deutsch in der Klasse.", "hint": "gut → am besten (исключение)"}
+      ]
+    }
+  ],
+  "B1": [
+    {
+      "id": "konjunktiv2",
+      "name": "💭 Konjunktiv II (сослагательное)",
+      "explanation": "Konjunktiv II выражает нереальные условия, вежливые просьбы, советы.\n\nОбразуется от Präteritum + умлаут (у сильных глаголов):\n• sein → *wäre*\n• haben → *hätte*\n• werden → *würde*\n• können → *könnte*\n• müssen → *müsste*\n\n📌 Применение:\n• Вежливость: *Könnten* Sie mir helfen?\n• Нереальное условие: *Wenn* ich Zeit *hätte*, würde ich kommen.\n• Совет: Du *solltest* mehr schlafen.\n• Желание: Ich *würde* gerne reisen.\n\n💡 *würde* + инфинитив — удобная замена для большинства глаголов.",
+      "quiz": [
+        {"question": "Вежливая просьба: ___ Sie mir bitte helfen? (können)", "options": ["Können", "Könnten", "Konnten", "Gekonnt"], "answer": "Könnten"},
+        {"question": "Wenn ich Geld ___, würde ich reisen. (haben)", "options": ["habe", "hatte", "hätte", "gehabt"], "answer": "hätte"},
+        {"question": "Ich ___ gerne ins Theater gehen.", "options": ["werde", "würde", "wurde", "will"], "answer": "würde"}
+      ],
+      "open": [
+        {"question": "Выразити вежливо: Можете ли вы открыть окно? (öffnen)", "answer": "Könnten Sie bitte das Fenster öffnen?", "hint": "können → Konjunktiv II → könnten"},
+        {"question": "Переведи: Если бы у меня было время, я бы учил немецкий. (Zeit haben, Deutsch lernen)", "answer": "Wenn ich Zeit hätte, würde ich Deutsch lernen.", "hint": "haben → hätte. zweite Teil: würde + Infinitiv"}
+      ]
+    },
+    {
+      "id": "passiv",
+      "name": "🔄 Пассивный залог (Passiv)",
+      "explanation": "Passiv акцентирует действие, а не того, кто его совершает.\n\nОбразуется: *werden* + Partizip II\n\n| Время | Форма |\n|---|---|\n| Präsens | wird gemacht |\n| Präteritum | wurde gemacht |\n| Perfekt | ist gemacht worden |\n\n📌 Примеры:\n• Das Buch *wird* geschrieben. — Книга пишется.\n• Das Haus *wurde* gebaut. — Дом был построен.\n• Die Aufgabe *ist* erledigt *worden*. — Задание выполнено.\n\n💡 Агент (кем?) → von + Dativ:\n_Das Buch wurde *von* dem Autor geschrieben._",
+      "quiz": [
+        {"question": "Das Haus ___ renoviert. (Präsens Passiv)", "options": ["hat", "ist", "wird", "wurde"], "answer": "wird"},
+        {"question": "Partizip II от 'bauen':", "options": ["gebaut", "gebauen", "bauend", "baut"], "answer": "gebaut"},
+        {"question": "Der Brief wurde von ihm ___.", "options": ["schreiben", "schreibt", "geschrieben", "schrieb"], "answer": "geschrieben"}
+      ],
+      "open": [
+        {"question": "Переведи в пассив: Man repariert das Auto. (das Auto reparieren)", "answer": "Das Auto wird repariert.", "hint": "Akkusativ → подлежащее пассива. werden + Partizip II"},
+        {"question": "Переведи: Немецкий язык учат во многих странах.", "answer": "Deutsch wird in vielen Ländern gelernt.", "hint": "Passiv Präsens: wird + gelernt"}
+      ]
+    },
+    {
+      "id": "relativsaetze",
+      "name": "🔍 Относительные придаточные",
+      "explanation": "Относительное придаточное описывает существительное.\nВводится местоимением, которое согласуется с существительным.\n\n| | муж. | жен. | ср. | мн.ч. |\n|---|---|---|---|---|\n| Nom | *der* | *die* | *das* | *die* |\n| Akk | *den* | *die* | *das* | *die* |\n| Dat | *dem* | *der* | *dem* | *denen* |\n\n📌 Примеры:\n• Das ist der Mann, *der* hier wohnt.\n• Ich sehe die Frau, *die* du kennst.\n• Das Buch, *das* ich lese, ist spannend.\n• Der Mann, *dem* ich helfe, ist alt.\n\n💡 Глагол — в конец придаточного!",
+      "quiz": [
+        {"question": "Das ist die Frau, ___ hier arbeitet.", "options": ["der", "die", "das", "den"], "answer": "die"},
+        {"question": "Der Mann, ___ ich helfe, ist freundlich. (Dativ)", "options": ["der", "die", "dem", "den"], "answer": "dem"},
+        {"question": "Das Kind, ___ spielt, lacht. (Nom, ср.р.)", "options": ["der", "die", "das", "den"], "answer": "das"}
+      ],
+      "open": [
+        {"question": "Соедини: Ich kenne einen Mann. Er spricht 5 Sprachen.", "answer": "Ich kenne einen Mann, der 5 Sprachen spricht.", "hint": "Mann — м.р., Nom → der. Глагол в конец"},
+        {"question": "Соедини: Das ist das Buch. Ich habe es gekauft. (Akk)", "answer": "Das ist das Buch, das ich gekauft habe.", "hint": "das Buch — ср.р., Akk → das. Глагол (habe) в конец"}
+      ]
+    },
+    {
+      "id": "genitiv",
+      "name": "🏷 Родительный падеж (Genitiv)",
+      "explanation": "Genitiv выражает принадлежность (чей? чья?)\n\nАртикли в Genitiv:\n| | Nom | Genitiv |\n|---|---|---|\n| муж. | der | *des* + -(e)s |\n| жен. | die | *der* |\n| ср. | das | *des* + -(e)s |\n\n📌 Примеры:\n• das Auto *des* Mannes — машина мужчины\n• die Tasche *der* Frau — сумка женщины\n• das Zimmer *des* Kindes — комната ребёнка\n\n💡 В разговорной речи Genitiv часто заменяют:\n_das Auto *von dem* Mann (von + Dativ)_",
+      "quiz": [
+        {"question": "Die Tasche ___ Mutter ist schön.", "options": ["des", "der", "dem", "die"], "answer": "der"},
+        {"question": "Das Auto ___ Mannes ist neu.", "options": ["des", "der", "dem", "die"], "answer": "des"},
+        {"question": "Wegen ___ Wetters bleibe ich zu Hause. (das Wetter)", "options": ["des", "der", "dem", "das"], "answer": "des"}
+      ],
+      "open": [
+        {"question": "Переведи: Это книга учителя. (der Lehrer)", "answer": "Das ist das Buch des Lehrers.", "hint": "der Lehrer → Genitiv: des Lehrers (м.р. + -s)"},
+        {"question": "Переведи: Из-за дождя мы остались дома. (der Regen)", "answer": "Wegen des Regens sind wir zu Hause geblieben.", "hint": "wegen + Genitiv. der Regen → des Regens"}
+      ]
+    },
+    {
+      "id": "infinitiv_zu",
+      "name": "🔄 Инфинитив с zu",
+      "explanation": "Инфинитивная конструкция с *zu* заменяет придаточное предложение.\n\n📌 Когда использовать:\n• После определённых глаголов: versuchen, beginnen, vergessen, hoffen, vorhaben...\n• После прилагательных: Es ist wichtig/möglich/einfach...\n• После существительных: Lust, Zeit, Möglichkeit...\n\n📌 Примеры:\n• Ich versuche, *Deutsch zu lernen*.\n• Es ist wichtig, *pünktlich zu sein*.\n• Ich habe keine Zeit, *ins Kino zu gehen*.\n\n💡 При отделяемых приставках: *zu* между приставкой и основой!\n_Ich versuche, früh *aufzustehen*._",
+      "quiz": [
+        {"question": "Ich versuche, Deutsch ___ lernen.", "options": ["zu", "um zu", "ohne zu", "—"], "answer": "zu"},
+        {"question": "Es ist wichtig, gesund ___ essen.", "options": ["zu", "—", "um", "dass"], "answer": "zu"},
+        {"question": "Инфинитив с zu от 'aufmachen':", "options": ["aufzumachen", "zu aufmachen", "aufmachenzу", "zumachen auf"], "answer": "aufzumachen"}
+      ],
+      "open": [
+        {"question": "Перефразируй: Ich habe vor, dass ich morgen früh aufstehe.", "answer": "Ich habe vor, morgen früh aufzustehen.", "hint": "vorhaben + zu-Infinitiv. aufstehen → aufzustehen"},
+        {"question": "Переведи: Он пытается говорить по-немецки без ошибок.", "answer": "Er versucht, Deutsch ohne Fehler zu sprechen.", "hint": "versuchen + zu + Infinitiv в конце"}
+      ]
+    },
+    {
+      "id": "plusquamperfekt",
+      "name": "⏪ Предпрошедшее время (Plusquamperfekt)",
+      "explanation": "Plusquamperfekt обозначает действие, которое произошло *раньше* другого прошедшего.\n\nОбразуется: *hatte/war* (Präteritum) + Partizip II\n\n• hatte + P.II (большинство глаголов)\n• war + P.II (глаголы движения, sein)\n\n📌 Примеры:\n• Als ich ankam, *hatte* er schon gegessen.\n  (Когда я пришёл, он уже поел.)\n• Nachdem sie gegangen *war*, rief er an.\n  (После того как она ушла, он позвонил.)\n\n💡 Часто используется с: *nachdem, als, bevor, weil*",
+      "quiz": [
+        {"question": "Als ich kam, ___ er schon geschlafen.", "options": ["hat", "hatte", "war", "ist"], "answer": "hatte"},
+        {"question": "Nachdem sie ___ gegangen war, wurde es ruhig.", "options": ["hat", "hatte", "ist", "war"], "answer": "war"},
+        {"question": "Plusquamperfekt от 'essen' (er):", "options": ["hat gegessen", "hatte gegessen", "war gegessen", "ißt"], "answer": "hatte gegessen"}
+      ],
+      "open": [
+        {"question": "Поставь в Plusquamperfekt: Er lernt die Wörter. (er / die Wörter / lernen)", "answer": "Er hatte die Wörter gelernt.", "hint": "haben (hatte) + Partizip II (gelernt)"},
+        {"question": "Переведи: Когда я пришёл домой, она уже уехала. (fahren → ist gefahren)", "answer": "Als ich nach Hause kam, war sie schon gefahren.", "hint": "fahren — глагол движения → war + gefahren"}
+      ]
+    },
+    {
+      "id": "konnektoren",
+      "name": "🔗 Союзы (deshalb/trotzdem/außerdem)",
+      "explanation": "Эти союзы стоят на *1-м месте* → вызывают инверсию!\n\n• *deshalb* — поэтому\n• *trotzdem* — тем не менее, несмотря на это\n• *außerdem* — кроме того, к тому же\n• *dennoch* — всё же\n• *also* — итак, значит\n• *nämlich* — а именно, ведь (стоит на 3-м месте!)\n\n📌 Примеры:\n• Es regnet. *Deshalb* bleibe ich zu Hause.\n  (= ..., *weil* es regnet.)\n• Er ist krank. *Trotzdem* kommt er zur Arbeit.\n• Das Essen war gut. *Außerdem* war es billig.\n\n💡 Сравни: *weil* → глагол в конец, *deshalb* → глагол на 2-е место.",
+      "quiz": [
+        {"question": "Er ist müde. ___ geht er schlafen.", "options": ["Weil", "Deshalb", "Trotzdem", "Außerdem"], "answer": "Deshalb"},
+        {"question": "Es ist kalt. ___ gehe ich spazieren. (несмотря на это)", "options": ["Deshalb", "Also", "Trotzdem", "Nämlich"], "answer": "Trotzdem"},
+        {"question": "Das Hotel ist schön. ___ ist es günstig. (к тому же)", "options": ["Deshalb", "Trotzdem", "Außerdem", "Weil"], "answer": "Außerdem"}
+      ],
+      "open": [
+        {"question": "Соедини через deshalb: Er hat viel gelernt. Er besteht die Prüfung.", "answer": "Er hat viel gelernt, deshalb besteht er die Prüfung.", "hint": "deshalb → инверсия: deshalb + глагол + подлежащее"},
+        {"question": "Перефразируй weil → deshalb: Ich lerne Deutsch, weil ich in Deutschland arbeiten will.", "answer": "Ich will in Deutschland arbeiten, deshalb lerne ich Deutsch.", "hint": "weil-предложение становится первым, потом deshalb + инверсия"}
+      ]
+    }
+  ]
+}

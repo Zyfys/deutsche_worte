@@ -1,0 +1,249 @@
+# Goethe-Zertifikat B1 — Основные слова (официальный список)
+# Используется для генерации слова дня по уровню
+
+# Глаголы
+abholen
+ablehnen
+abmachen
+absagen
+abschließen
+anfangen
+anmelden
+anrufen
+antworten
+arbeiten
+aufhören
+aufmachen
+aufräumen
+aufstehen
+ausgeben
+aussuchen
+basteln
+beachten
+bedeuten
+beginnen
+begrüßen
+benutzen
+beschreiben
+bestellen
+besuchen
+bezahlen
+bitten
+bleiben
+brauchen
+bringen
+buchstabieren
+danken
+denken
+diskutieren
+einladen
+einkaufen
+einschlafen
+empfehlen
+entscheiden
+erklären
+erzählen
+fahren
+fallen
+finden
+fragen
+freuen
+funktionieren
+geben
+gefallen
+gehören
+gewinnen
+glauben
+haben
+helfen
+hören
+kaufen
+kennen
+kommen
+kochen
+lachen
+laufen
+legen
+leihen
+lesen
+liegen
+machen
+meinen
+mieten
+mitbringen
+mitnehmen
+müssen
+nehmen
+öffnen
+passen
+planen
+putzen
+reden
+reisen
+reservieren
+rufen
+sagen
+schicken
+schlafen
+schreiben
+sehen
+sein
+spielen
+sprechen
+starten
+stellen
+suchen
+tanzen
+telefonieren
+treffen
+trinken
+tun
+übersetzen
+umziehen
+verbinden
+vergessen
+verkaufen
+verlassen
+verstehen
+vorstellen
+warten
+wechseln
+werden
+wissen
+wohnen
+zahlen
+zeigen
+
+# Существительные
+die Adresse
+die Antwort
+die Arbeit
+der Arzt
+die Ärztin
+der Ausflug
+die Auskunft
+der Ausweis
+die Bahn
+der Bahnhof
+die Bank
+der Beruf
+der Brief
+das Büro
+der Bus
+die Bibliothek
+das Datum
+das Dokument
+die E-Mail
+die Familie
+das Fenster
+das Formular
+die Freizeit
+das Frühstück
+das Geld
+das Gespräch
+die Gesundheit
+der Geburtstag
+das Hobby
+das Hotel
+die Information
+das Jahr
+der Job
+das Kind
+der Kollege
+die Kollegin
+das Krankenhaus
+die Krankheit
+der Kurs
+der Laden
+das Land
+die Lebensmittel
+der Lehrer
+die Lehrerin
+die Leute
+die Miete
+die Meinung
+der Mensch
+das Medikament
+die Möglichkeit
+der Monat
+der Nachbar
+die Nachricht
+das Paket
+der Pass
+die Person
+die Post
+das Praktikum
+das Problem
+der Preis
+die Reise
+das Restaurant
+die Schule
+der Supermarkt
+die Telefonnummer
+der Termin
+die Uhrzeit
+der Unterricht
+der Urlaub
+die Verabredung
+die Verbindung
+der Verkehr
+die Veranstaltung
+das Visum
+die Wohnung
+das Wörterbuch
+die Zeit
+das Zimmer
+der Zug
+die Zeitung
+
+# Прилагательные
+alt
+angenehm
+arm
+beschäftigt
+billig
+deutlich
+direkt
+einfach
+eng
+frei
+freundlich
+frisch
+früh
+gefährlich
+genug
+gesund
+glücklich
+groß
+günstig
+gut
+interessant
+jung
+kalt
+kaputt
+klein
+krank
+kurz
+lang
+laut
+leicht
+lustig
+modern
+möglich
+müde
+nett
+neu
+offen
+pünktlich
+richtig
+ruhig
+schlecht
+schnell
+schön
+schwer
+teuer
+typisch
+warm
+wichtig
+weit
+zufrieden

@@ -1,0 +1,276 @@
+{
+  "A1": [
+    {
+      "id": "begruessen",
+      "name": "👋 Sich begrüßen",
+      "role": "Fremder",
+      "role_ru": "Незнакомец",
+      "starter": "Hallo! Wie heißen Sie?",
+      "description": "Познакомься и расскажи о себе"
+    },
+    {
+      "id": "zahlen",
+      "name": "🛒 Im Laden zahlen",
+      "role": "Verkäufer",
+      "role_ru": "Продавец",
+      "starter": "Guten Tag! Was darf es sein?",
+      "description": "Купи что-нибудь в магазине"
+    }
+  ],
+  "A2": [
+    {
+      "id": "arzt",
+      "name": "🏥 Beim Arzt",
+      "role": "Arzt",
+      "role_ru": "Врач",
+      "starter": "Guten Tag! Was kann ich für Sie tun?",
+      "description": "Опиши симптомы и поговори с врачом"
+    },
+    {
+      "id": "bahnhof",
+      "name": "🚂 Am Bahnhof",
+      "role": "Mitarbeiter",
+      "role_ru": "Сотрудник вокзала",
+      "starter": "Guten Tag! Wohin möchten Sie fahren?",
+      "description": "Купи билет и узнай расписание"
+    },
+    {
+      "id": "restaurant",
+      "name": "🍽️ Im Restaurant",
+      "role": "Kellner",
+      "role_ru": "Официант",
+      "starter": "Guten Abend! Haben Sie reserviert?",
+      "description": "Закажи еду и напитки"
+    },
+    {
+      "id": "post",
+      "name": "📮 Auf der Post",
+      "role": "Postbeamter",
+      "role_ru": "Сотрудник почты",
+      "starter": "Guten Tag! Was kann ich für Sie tun?",
+      "description": "Отправь посылку или письмо"
+    }
+  ],
+  "B1": [
+    {
+      "id": "job_interview",
+      "name": "💼 Vorstellungsgespräch",
+      "role": "Personalchef",
+      "role_ru": "Менеджер по персоналу",
+      "starter": "Guten Tag! Bitte stellen Sie sich kurz vor.",
+      "description": "Собеседование на работу"
+    },
+    {
+      "id": "wohnung",
+      "name": "🏠 Wohnung mieten",
+      "role": "Vermieter",
+      "role_ru": "Арендодатель",
+      "starter": "Guten Tag! Sie interessieren sich für die Wohnung?",
+      "description": "Посмотри квартиру и обсуди условия аренды"
+    },
+    {
+      "id": "bank",
+      "name": "🏦 Bei der Bank",
+      "role": "Bankberater",
+      "role_ru": "Банковский консультант",
+      "starter": "Guten Tag! Was kann ich für Sie tun?",
+      "description": "Открой счёт или обсуди финансовые вопросы"
+    },
+    {
+      "id": "behörde",
+      "name": "🏛️ Beim Amt",
+      "role": "Beamter",
+      "role_ru": "Чиновник",
+      "starter": "Guten Tag! Was möchten Sie anmelden?",
+      "description": "Зарегистрируйся по месту жительства"
+    },
+    {
+      "id": "telefon",
+      "name": "📞 Telefonat",
+      "role": "Kollege",
+      "role_ru": "Коллега",
+      "starter": "Firma Müller GmbH, guten Tag!",
+      "description": "Деловой звонок — запись на встречу"
+    },
+    {
+      "id": "krankenhaus",
+      "name": "🏥 Im Krankenhaus",
+      "role": "Krankenschwester",
+      "role_ru": "Медсестра",
+      "starter": "Guten Tag! Sie sind neu hier. Wie kann ich Ihnen helfen?",
+      "description": "Запись на приём и заполнение медицинских данных"
+    },
+    {
+      "id": "umzug",
+      "name": "📦 Beim Umzug helfen",
+      "role": "Nachbar",
+      "role_ru": "Сосед",
+      "starter": "Hallo! Ich sehe, Sie ziehen ein. Ich bin Ihr neuer Nachbar!",
+      "description": "Познакомься с соседями при переезде"
+    },
+    {
+      "id": "versicherung",
+      "name": "📋 Versicherung abschließen",
+      "role": "Versicherungsberater",
+      "role_ru": "Страховой агент",
+      "starter": "Guten Tag! Womit kann ich Ihnen behilflich sein?",
+      "description": "Оформи страховку и узнай о тарифах"
+    },
+    {
+      "id": "kursanmeldung",
+      "name": "📚 Kursanmeldung",
+      "role": "Sekretärin der Volkshochschule",
+      "role_ru": "Секретарь курсов",
+      "starter": "Guten Tag! Möchten Sie sich für einen Kurs anmelden?",
+      "description": "Запишись на курс в народной высшей школе"
+    },
+    {
+      "id": "supermarkt_reklamation",
+      "name": "🛍️ Reklamation im Supermarkt",
+      "role": "Filialleiter",
+      "role_ru": "Директор магазина",
+      "starter": "Guten Tag! Sie möchten sich beschweren?",
+      "description": "Пожалуйся на испорченный товар"
+    },
+    {
+      "id": "stadtfuehrung",
+      "name": "🗺️ Stadtführung",
+      "role": "Stadtführer",
+      "role_ru": "Гид",
+      "starter": "Willkommen in unserer Stadt! Haben Sie Fragen?",
+      "description": "Узнай об интересных местах в городе"
+    },
+    {
+      "id": "reisebuero",
+      "name": "✈️ Im Reisebüro",
+      "role": "Reiseberater",
+      "role_ru": "Турагент",
+      "starter": "Guten Tag! Wohin soll die Reise gehen?",
+      "description": "Забронируй отпуск в туристическом агентстве"
+    },
+    {
+      "id": "bibliothek",
+      "name": "📖 In der Bibliothek",
+      "role": "Bibliothekar",
+      "role_ru": "Библиотекарь",
+      "starter": "Guten Tag! Wie kann ich Ihnen helfen?",
+      "description": "Запишись в библиотеку и найди нужную книгу"
+    },
+    {
+      "id": "autowerkstatt",
+      "name": "🚗 In der Autowerkstatt",
+      "role": "Mechaniker",
+      "role_ru": "Механик",
+      "starter": "Guten Tag! Was ist mit Ihrem Auto nicht in Ordnung?",
+      "description": "Опиши проблему с машиной"
+    },
+    {
+      "id": "elternsprechtag",
+      "name": "🎒 Elternsprechtag",
+      "role": "Klassenlehrer",
+      "role_ru": "Классный руководитель",
+      "starter": "Guten Abend! Bitte setzen Sie sich. Wie läuft es bei Ihrem Kind?",
+      "description": "Родительское собрание — поговори об успехах ребёнка"
+    },
+    {
+      "id": "jobcenter",
+      "name": "💼 Im Jobcenter",
+      "role": "Arbeitsvermittler",
+      "role_ru": "Специалист по трудоустройству",
+      "starter": "Guten Tag! Was führt Sie heute zu uns?",
+      "description": "Поиск работы через центр занятости"
+    },
+    {
+      "id": "fitnessstudio",
+      "name": "💪 Im Fitnessstudio",
+      "role": "Fitnessberater",
+      "role_ru": "Фитнес-консультант",
+      "starter": "Hallo! Interessieren Sie sich für eine Mitgliedschaft?",
+      "description": "Запишись в спортзал и узнай о программах"
+    },
+    {
+      "id": "sprachkurs_diskussion",
+      "name": "🗣️ Diskussion im Sprachkurs",
+      "role": "Kursleiterin",
+      "role_ru": "Преподаватель курса",
+      "starter": "Heute diskutieren wir: Warum lernen Sie Deutsch?",
+      "description": "Расскажи, почему ты учишь немецкий"
+    },
+    {
+      "id": "wochenmarkt",
+      "name": "🥦 Auf dem Wochenmarkt",
+      "role": "Marktverkäufer",
+      "role_ru": "Торговец на рынке",
+      "starter": "Guten Morgen! Schauen Sie sich gerne um!",
+      "description": "Купи продукты на рынке"
+    },
+    {
+      "id": "nachbar_laerm",
+      "name": "🔊 Lärmproblem mit Nachbar",
+      "role": "Nachbar",
+      "role_ru": "Сосед",
+      "starter": "Oh, Sie klingeln bei mir. Was kann ich für Sie tun?",
+      "description": "Реши проблему с шумным соседом вежливо"
+    }
+  ],
+  "B2": [
+    {
+      "id": "reklamation",
+      "name": "📦 Reklamation",
+      "role": "Kundenservice",
+      "role_ru": "Служба поддержки",
+      "starter": "Kundenservice, guten Tag! Womit kann ich helfen?",
+      "description": "Пожалуйся на товар и добейся возврата"
+    },
+    {
+      "id": "diskussion_umwelt",
+      "name": "🌍 Diskussion: Umwelt",
+      "role": "Moderator",
+      "role_ru": "Модератор дискуссии",
+      "starter": "Heute sprechen wir über Klimawandel. Was ist Ihre Meinung?",
+      "description": "Дискуссия об экологии и изменении климата"
+    },
+    {
+      "id": "medizin",
+      "name": "🩺 Arztgespräch (komplex)",
+      "role": "Facharzt",
+      "role_ru": "Специалист",
+      "starter": "Guten Tag, ich habe Ihre Testergebnisse. Setzen Sie sich bitte.",
+      "description": "Обсуждение сложного медицинского случая"
+    },
+    {
+      "id": "konferenz",
+      "name": "📊 Business-Meeting",
+      "role": "Geschäftspartner",
+      "role_ru": "Деловой партнёр",
+      "starter": "Herzlich willkommen! Ich freue mich auf unsere Zusammenarbeit.",
+      "description": "Деловые переговоры и презентация проекта"
+    }
+  ],
+  "C1": [
+    {
+      "id": "verhandlung",
+      "name": "🤝 Vertragsverhandlung",
+      "role": "Anwalt",
+      "role_ru": "Юрист",
+      "starter": "Guten Tag. Lassen Sie uns die Vertragsbedingungen besprechen.",
+      "description": "Сложные переговоры по контракту"
+    },
+    {
+      "id": "akademisch",
+      "name": "🎓 Akademische Diskussion",
+      "role": "Professor",
+      "role_ru": "Профессор",
+      "starter": "Ihre These klingt interessant. Können Sie das genauer erläutern?",
+      "description": "Академическая дискуссия по научной теме"
+    },
+    {
+      "id": "politik",
+      "name": "🗳️ Politische Debatte",
+      "role": "Journalist",
+      "role_ru": "Журналист",
+      "starter": "Vielen Dank für das Interview. Meine erste Frage: ...",
+      "description": "Политическое интервью"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "B1": [
+    {
+      "id": "dialog_baby",
+      "name": "🤝 Geburt und Klassentreffen",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Hey! Hast du schon gehört? Unsere Kollegin Sandra hat ein Baby bekommen! Wir sollten das unbedingt feiern. Und außerdem wollten wir doch seit Langem ein Klassentreffen organisieren. Lass uns gemeinsam planen, was wir machen können!",
+      "description": "Вы вместе планируете два события: как отпраздновать рождение ребёнка у коллеги и как организовать встречу одноклассников. Предлагай идеи, обсуждай место, время, угощения и подарок."
+    },
+    {
+      "id": "dialog_kinderfest",
+      "name": "🤝 Sommerfest mit Kinderprogramm",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Also, der Sommer kommt und ich denke, wir sollten endlich unser großes Sommerfest organisieren – diesmal mit einem richtigen Kinderprogramm! Hast du Ideen, was wir für die Kinder anbieten können und wie wir das Fest am besten gestalten?",
+      "description": "Вы вместе планируете летний праздник с детской программой. Обсудите место, время, развлечения для детей, еду и напитки, кто за что отвечает."
+    },
+    {
+      "id": "dialog_abschied",
+      "name": "🤝 Abschiedsparty für Kollege",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Du weißt ja, dass unser Kollege Thomas nächste Woche die Stadt verlässt – er zieht nach München. Wir müssen ihm eine tolle Abschiedsparty organisieren! Was schlägst du vor? Wo sollen wir feiern und was können wir vorbereiten?",
+      "description": "Вы организуете прощальную вечеринку для коллеги, который переезжает. Обсудите место проведения, время, подарок, угощения и кто кого приглашает."
+    },
+    {
+      "id": "dialog_umzug",
+      "name": "🤝 Freund zieht um – Hilfe organisieren",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Unser Freund Markus zieht nächsten Samstag um und braucht dringend Hilfe! Er hat gefragt, ob wir ihm helfen können. Ich bin dabei – und du? Lass uns besprechen, wie wir ihm am besten helfen können und was wir alles brauchen.",
+      "description": "Вы вместе помогаете другу с переездом. Обсудите, кто и что делает, нужен ли грузовик, сколько времени займёт, и не забудьте договориться о небольшом праздновании новоселья."
+    },
+    {
+      "id": "dialog_pruefung",
+      "name": "🤝 Prüfung morgen – abholen und feiern",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Unsere Freundin Lisa hat morgen ihre wichtige Prüfung! Ich dachte, wir könnten sie danach abholen und dann gemeinsam feiern. Was meinst du? Wie sollen wir das organisieren – wann, wo und was machen wir nach der Prüfung?",
+      "description": "Вы планируете встретить подругу после экзамена и устроить небольшой праздник. Обсудите, где и когда встретитесь, куда пойдёте отмечать и что подготовите заранее."
+    },
+    {
+      "id": "dialog_hochzeit_buero",
+      "name": "🤝 Hochzeit im Büro feiern",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Du hast sicher schon gehört: Unser Kollege Peter hat letzte Woche geheiratet! Das müssen wir im Büro feiern. Ich bin schon dabei, eine kleine Büroparty zu planen – magst du mithelfen? Was können wir organisieren?",
+      "description": "Вы организуете праздник в офисе по поводу свадьбы коллеги. Обсудите украшения, угощения, подарок от коллектива, время проведения и кто будет за что отвечать."
+    },
+    {
+      "id": "dialog_geburtstag_spaziergang",
+      "name": "🤝 Geburtstag + Spaziergang",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Nächste Woche hat unser Kollege Jens Geburtstag! Ich dachte, wir könnten etwas Besonderes machen – zum Beispiel zuerst einen Spaziergang mit allen Kursteilnehmern und dann eine kleine Feier. Was hältst du davon? Lass uns planen!",
+      "description": "Вы планируете день рождения коллеги: сначала прогулку со всеми участниками курса, потом небольшое застолье. Обсудите маршрут прогулки, место вечеринки, что принести и как сообщить всем."
+    },
+    {
+      "id": "dialog_stadtfuehrung",
+      "name": "🤝 Stadtführung für neue Teilnehmer",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Wir haben nächste Woche neue Kursteilnehmer, die die Stadt noch nicht kennen. Ich finde, wir sollten ihnen eine Stadtführung organisieren und danach eine kleine Willkommensparty. Was meinst du – wie machen wir das am besten?",
+      "description": "Вы организуете экскурсию по городу для новых участников курса и приветственную вечеринку. Обсудите маршрут, важные места, время, место вечеринки и что подготовить."
+    },
+    {
+      "id": "dialog_rockkonzert",
+      "name": "🤝 Rockkonzert besuchen",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Ich habe gerade gesehen, dass nächsten Freitag ein tolles Rockkonzert in der Stadt ist! Das klingt nach einem perfekten Abend. Sollen wir hingehen? Lass uns planen – wie kommen wir hin, wann treffen wir uns und was machen wir davor und danach?",
+      "description": "Вы вместе планируете поход на рок-концерт. Обсудите, как добраться, где встретиться, нужно ли купить билеты заранее и что делать до и после концерта."
+    },
+    {
+      "id": "dialog_picknick",
+      "name": "🤝 Picknick mit Musik",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Das Wetter am Wochenende soll super sein! Ich habe eine Idee: Lass uns ein Picknick mit Musik organisieren – einfach raus in den Park, Essen mitbringen und Musik hören. Magst du das mit mir planen? Was schlägst du vor?",
+      "description": "Вы планируете пикник с музыкой на свежем воздухе. Обсудите место, кто что приносит из еды и напитков, музыку (живая или плейлист), сколько человек приглашаете."
+    },
+    {
+      "id": "dialog_ueberraschung",
+      "name": "🤝 Überraschungsparty",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Nächste Woche hat Anna Geburtstag und sie ahnt nichts! Ich möchte ihr eine Überraschungsparty organisieren. Das wird toll, aber ich brauche deine Hilfe. Wie können wir das so planen, dass sie wirklich überrascht ist?",
+      "description": "Вы вместе планируете сюрприз-вечеринку ко дню рождения. Обсудите, как отвлечь именинницу, где будет вечеринка, кого пригласить, что приготовить и как всё сохранить в тайне."
+    },
+    {
+      "id": "dialog_museum",
+      "name": "🤝 Museum und Party nach dem Kurs",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Der Kurs endet nächsten Monat und ich dachte, wir sollten das gebührend feiern! Zuerst vielleicht eine Nacht im Museum – die haben ja Sonderöffnungszeiten – und danach eine Party. Was meinst du? Wie organisieren wir das?",
+      "description": "Вы планируете посещение ночного музея и вечеринку по случаю окончания курса. Обсудите, какой музей выбрать, когда идти, где и как отметить конец курса, кого пригласить."
+    },
+    {
+      "id": "dialog_fotograf",
+      "name": "🤝 Fotografen empfangen und Programm planen",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Nächste Woche kommt ein Fotograf aus Berlin zu uns in die Stadt – er macht Fotos für unser Schulprojekt. Wir sollen ihn empfangen und ihm die Stadt zeigen. Ich finde, wir sollten ein richtiges Programm für ihn planen. Hast du Ideen?",
+      "description": "Вы составляете программу для фотографа из другого города. Обсудите, где его встретить, какие места города показать, где пообедать, возможно небольшую вечеринку вечером."
+    },
+    {
+      "id": "dialog_fahrradtour",
+      "name": "🤝 2-Tages-Fahrradtour",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Ich habe schon lange davon geträumt, eine zweitägige Fahrradtour zu machen! Das Wochenende in zwei Wochen wäre perfekt. Machen wir das zusammen? Lass uns alles planen – Route, Übernachtung, was wir mitnehmen und wie wir uns vorbereiten.",
+      "description": "Вы планируете двухдневный велосипедный тур. Обсудите маршрут, где ночевать, что взять с собой, сколько километров проехать в день и как подготовиться физически."
+    },
+    {
+      "id": "dialog_volleyball",
+      "name": "🤝 Konzert oder Volleyball – gemeinsam entscheiden",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Ich kann mich nicht entscheiden! Am Samstag gibt es ein tolles Rockkonzert in der Stadtmitte, aber gleichzeitig möchte ich einem Volleyballteam beitreten – die haben samstags Training. Was sollen wir machen? Lass uns gemeinsam überlegen!",
+      "description": "Вы вместе решаете, что лучше: пойти на рок-концерт или записаться в волейбольную команду. Обсудите плюсы и минусы обоих вариантов и примите общее решение."
+    },
+    {
+      "id": "dialog_moebelbuero",
+      "name": "🤝 Neue Möbel für das Büro",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Unser Chef hat uns beauftragt, neue Möbel für das Büro auszusuchen und zu kaufen – wir haben ein Budget von 500 Euro. Das ist eine große Aufgabe! Magst du mir dabei helfen? Was brauchen wir am dringendsten und wo kaufen wir ein?",
+      "description": "Вы вместе выбираете и покупаете новую мебель для офиса. Обсудите, что нужно купить, каков бюджет, где лучше купить (IKEA, онлайн и т.д.) и как будете транспортировать мебель."
+    },
+    {
+      "id": "dialog_30geburtstag",
+      "name": "🤝 30. Geburtstag einer Freundin",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Unsere Freundin Julia wird nächsten Monat 30! Das ist ein besonderes Jubiläum und das müssen wir groß feiern. Ich habe schon ein paar Ideen, aber ich brauche deine Hilfe. Was schlägst du vor? Wie soll die Feier aussehen?",
+      "description": "Вы планируете вечеринку на 30-летие подруги. Обсудите место (ресторан, дома, на природе), тему вечеринки, подарок, гостей, угощения и особые сюрпризы."
+    },
+    {
+      "id": "dialog_neue_nachbarn",
+      "name": "🤝 Willkommensparty für neue Nachbarn",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Wir haben neue Nachbarn! Sie sind letzte Woche eingezogen und kennen noch niemanden. Ich finde, wir sollten eine kleine Willkommensparty für sie organisieren. Das wäre doch nett, oder? Lass uns überlegen, wie wir das machen!",
+      "description": "Вы организуете приветственную вечеринку для новых соседей. Обсудите место (у кого-то дома или в общем пространстве), кого пригласить, что приготовить и когда лässt sich das am besten machen."
+    },
+    {
+      "id": "dialog_kollege_weg",
+      "name": "🤝 Kollege kündigt – Abschiedsfeier",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Hast du schon gehört? Unser Kollege Stefan kündigt und verlässt die Stadt – er hat einen neuen Job in Hamburg gefunden. Wir sollten ihm eine würdige Abschiedsfeier organisieren. Was meinst du – wie machen wir das?",
+      "description": "Вы организуете прощальный вечер для коллеги, который увольняется и уезжает. Обсудите место и время, подарок от всей команды, что приготовить и как сделать вечер запоминающимся."
+    },
+    {
+      "id": "dialog_hochzeitsfeier",
+      "name": "🤝 Gemeinsam zur Hochzeit fahren",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Unser Freund Michael heiratet nächsten Monat – die Hochzeit ist in einer anderen Stadt, ungefähr zwei Stunden entfernt. Wir sollten gemeinsam hinfahren! Lass uns planen, wie wir dorthin kommen, wo wir übernachten und was wir als Hochzeitsgeschenk mitbringen.",
+      "description": "Вы вместе едете на свадьбу друга в другой город. Обсудите транспорт, ночлег, свадебный подарок, во что одеться и как провести время до и после церемонии."
+    },
+    {
+      "id": "dialog_kursteilnehmer",
+      "name": "🤝 Kursteilnehmer aus anderer Stadt empfangen",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Nächste Woche kommt ein Kursteilnehmer aus Wien zu uns – er macht ein Austauschprogramm und bleibt eine Woche. Wir sollen ihm ein tolles Programm gestalten! Was können wir ihm von unserer Stadt zeigen und was unternehmen wir mit ihm?",
+      "description": "Вы составляете программу пребывания для участника курса из другого города. Обсудите экскурсии, культурные мероприятия, совместный ужин, шоппинг и как сделать его визит незабываемым."
+    },
+    {
+      "id": "dialog_stadtspaziergang",
+      "name": "🤝 Stadtspaziergang organisieren",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Das Wetter am Sonntag soll wunderbar sein! Ich dachte, wir könnten einen schönen Stadtspaziergang organisieren – für uns und noch ein paar Freunde. Lass uns planen: welche Route nehmen wir, wo machen wir Pause und wie lange soll der Spaziergang dauern?",
+      "description": "Вы планируете прогулку по городу для небольшой группы. Обсудите маршрут, интересные места, где сделать паузу на кофе или мороженое, продолжительность прогулки и сколько человек пригласить."
+    },
+    {
+      "id": "dialog_kurz_treffen",
+      "name": "🤝 Treffen nach 3 Jahren organisieren",
+      "role": "Kurspartnerin",
+      "role_ru": "Партнёр по курсу",
+      "starter": "Stell dir vor – unsere alte Schulfreundin Eva kommt nächste Woche kurz in die Stadt! Wir haben sie seit drei Jahren nicht gesehen. Das ist die perfekte Gelegenheit für ein Wiedersehen! Wie sollen wir das organisieren? Wo treffen wir uns und was machen wir?",
+      "description": "Вы организуете встречу со старой подругой, которую не видели 3 года. Обсудите место встречи, что вы будете делать вместе, стоит ли пригласить ещё кого-то и как лучше провести ограниченное время."
+    },
+    {
+      "id": "prä_heirat_mama",
+      "name": "🎤 Bei den Eltern wohnen (Heirat)",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Bei den Eltern wohnen bis zur Heirat – Vor- und Nachteile\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай 2-минутную презентацию на тему 'Жить с родителями до свадьбы'. Представь свою точку зрения, приведи аргументы за и против. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_schlafen_arbeit",
+      "name": "🎤 Schlafen auf der Arbeit",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Schlafen am Arbeitsplatz – sinnvoll oder unprofessionell?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Сон на рабочем месте'. Обсуди пользу и вред, примеры из разных стран. Будь готов ответить на вопросы экзаменатора."
+    },
+    {
+      "id": "prä_kino_tv",
+      "name": "🎤 Kino oder Fernsehen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Kino oder Fernsehen – was ist besser?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Кино или телевизор'. Сравни оба варианта, выскажи своё мнение с аргументами. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_sprache_ausland",
+      "name": "🎤 Sprache im Ausland lernen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Eine Sprache im Ausland lernen – Vor- und Nachteile\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Изучение языка за рубежом'. Расскажи о плюсах и минусах, поделись своим мнением. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_ausbildung",
+      "name": "🎤 Ausbildung vs. Studium",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Ausbildung oder Studium – was ist die bessere Wahl?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Профессиональное обучение или университет'. Сравни оба пути, дай аргументы за каждый. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_rauchverbot",
+      "name": "🎤 Rauchverbot in der Öffentlichkeit",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Rauchverbot an öffentlichen Orten – richtig oder falsch?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Запрет курения в общественных местах'. Представь аргументы за и против, выскажи своё мнение. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_urlaub",
+      "name": "🎤 Urlaub im In- oder Ausland",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Urlaub im Inland oder im Ausland – was bevorzugen Sie?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Отдых внутри страны или за границей'. Сравни варианты, выскажи предпочтения с аргументами. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_arbeit_krank",
+      "name": "🎤 Arbeit macht krank",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Arbeit macht krank – Stress und Burnout in der modernen Arbeitswelt\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Работа вызывает болезни'. Обсуди стресс, причины и возможные решения. Будь готов к вопросам экзаменатора."
+    },
+    {
+      "id": "prä_musik",
+      "name": "🎤 Musik in unserem Leben",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Musik in unserem Leben – warum ist sie so wichtig?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Музыка в нашей жизни'. Расскажи о роли музыки, своих предпочтениях и влиянии на человека. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_vegetarismus",
+      "name": "🎤 Vegetarismus",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Vegetarismus – gesunde Alternative oder unnötiger Verzicht?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Вегетарианство'. Обсуди плюсы и минусы, своё отношение к этой теме. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_instrumente",
+      "name": "🎤 Musikinstrumente lernen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Ein Musikinstrument lernen – lohnt es sich?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Стоит ли учиться играть на музыкальном инструменте'. Расскажи о пользе, трудностях и своём опыте. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_liebe_internet",
+      "name": "🎤 Liebe im Internet",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Liebe im Internet – Online-Dating: Chance oder Risiko?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Любовь в интернете / онлайн-знакомства'. Обсуди возможности и риски, выскажи своё мнение. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_fertigessen",
+      "name": "🎤 Fertigessen vs. selbst kochen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Fertigessen oder selbst kochen – was ist besser?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Готовая еда или домашняя кухня'. Сравни оба варианта по стоимости, времени и здоровью. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_extremsport",
+      "name": "🎤 Extremsport",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Extremsport – Abenteuer oder Lebensgefahr?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Экстремальный спорт'. Обсуди привлекательность, риски и своё отношение к этому. Будь готов к вопросам экзаменатора."
+    },
+    {
+      "id": "prä_einkaufszentrum",
+      "name": "🎤 Einkaufszentrum",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Einkaufszentren – Fluch oder Segen für die Stadt?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Торговые центры'. Расскажи о плюсах и минусах для города и жителей, выскажи своё мнение. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_sport",
+      "name": "🎤 Sport treiben",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Sport treiben – warum ist Bewegung so wichtig?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Занятия спортом'. Расскажи о пользе, своих предпочтениях и о том, почему многие не занимаются спортом. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_geschwister",
+      "name": "🎤 Geschwister haben",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Geschwister haben – Vor- und Nachteile\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Иметь братьев и сестёр: плюсы и минусы'. Поделись личным опытом или наблюдениями. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_ehrenamt",
+      "name": "🎤 Ehrenamt und Freiwilligenarbeit",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Ehrenamt und Freiwilligenarbeit – warum ist das wichtig?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Волонтёрство и общественная деятельность'. Расскажи, почему это важно, какие есть возможности, был ли у тебя личный опыт. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_getr_unterricht",
+      "name": "🎤 Getrennter Unterricht",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Getrennter Unterricht für Jungen und Mädchen – sinnvoll oder diskriminierend?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Раздельное обучение мальчиков и девочек'. Обсуди аргументы за и против, выскажи своё мнение. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_fremdsprachen",
+      "name": "🎤 Mehrere Fremdsprachen lernen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Soll jeder mehrere Fremdsprachen lernen?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Должен ли каждый учить несколько иностранных языков'. Представь свою позицию с аргументами. Будь готов к вопросам экзаменатора."
+    },
+    {
+      "id": "prä_kleidung_eltern",
+      "name": "🎤 Eltern suchen Kleidung aus",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Sollen Eltern die Kleidung ihrer Kinder aussuchen?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Должны ли родители выбирать одежду для детей'. Рассмотри разные возрасты, выскажи свою точку зрения. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_kinder_freizeit",
+      "name": "🎤 Kinder haben zu wenig Freizeit",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Kinder haben heute zu wenig Freizeit – stimmt das?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'У детей слишком мало свободного времени'. Обсуди причины, последствия и возможные решения. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_kindermode",
+      "name": "🎤 Kindermode",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Kindermode – wer bestimmt, was Kinder tragen?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Детская мода'. Обсуди влияние рекламы, роль родителей и детей, важность самовыражения. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_online_shopping",
+      "name": "🎤 Online-Shopping",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Einkäufe im Internet – bequem und günstig oder riskant?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Онлайн-шоппинг'. Расскажи о преимуществах и недостатках покупок в интернете. Будь готов к вопросам экзаменатора."
+    },
+    {
+      "id": "prä_haustiere",
+      "name": "🎤 Haustiere",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Haustiere – Freude oder Belastung?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Домашние животные: радость или обуза'. Расскажи о плюсах и минусах, поделись личным опытом если есть. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_auto_zentrum",
+      "name": "🎤 Innenstadt ohne Autos",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Innenstadt ohne Autos – eine gute Idee?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Центр города без машин'. Обсуди плюсы для пешеходов и экологии, минусы для бизнеса. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_neu_gebraucht",
+      "name": "🎤 Neue oder gebrauchte Sachen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Neue oder gebrauchte Sachen kaufen – was ist klüger?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Покупать новые или б/у вещи'. Сравни оба варианта по цене, качеству и экологии. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_exot_sprachen",
+      "name": "🎤 Exotische Sprachen lernen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Exotische Sprachen lernen – lohnt sich das?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Изучение экзотических языков'. Расскажи о мотивации, пользе и трудностях. Будь готов к вопросам экзаменатора."
+    },
+    {
+      "id": "prä_info_internet",
+      "name": "🎤 Information im Internet",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Information im Internet – wie erkennt man, was stimmt?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Информация в интернете: как распознать правду'. Обсуди фейки, надёжные источники и медиаграмотность. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_haushalt",
+      "name": "🎤 Haushalt",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Haushalt – wer soll was zu Hause machen?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Домашние дела: кто что делает'. Обсуди распределение обязанностей в семье, равноправие. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_pc_kursraum",
+      "name": "🎤 Computer im Kursraum",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Brauchen wir Computer in jedem Kursraum?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Нужны ли компьютеры в каждом классе'. Обсуди пользу цифровых технологий в обучении, риски и альтернативы. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_familienessen",
+      "name": "🎤 Gemeinsames Familienessen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Gemeinsam Abendessen – warum ist das Familienessen so wichtig?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Совместный семейный ужин'. Расскажи о важности семейных традиций за столом, современных проблемах. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_karriere_familie",
+      "name": "🎤 Karriere oder Familie",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Karriere oder Familie – muss man sich wirklich entscheiden?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Карьера или семья'. Обсуди, возможно ли совмещать, роль государства и работодателей. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_gesund_tv",
+      "name": "🎤 Gesund fernsehen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Gesund fernsehen – gibt es das überhaupt?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Здоровый просмотр телевизора'. Обсуди влияние ТВ на здоровье, рекомендуемое время и выбор контента. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_nachbarn",
+      "name": "🎤 Kontakte mit Nachbarn",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Kontakte mit Nachbarn – wie wichtig ist eine gute Nachbarschaft?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Отношения с соседями'. Расскажи о важности соседских связей, типичных проблемах и решениях. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_soziale_netze",
+      "name": "🎤 Soziale Netzwerke",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Soziale Netzwerke – Fluch oder Segen?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Социальные сети: благо или зло'. Обсуди плюсы и минусы, влияние на общение и психику. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_grosseltern",
+      "name": "🎤 Großeltern und Kinder",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Großeltern und Kinder – eine wichtige Beziehung?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Бабушки, дедушки и дети'. Расскажи о роли бабушек и дедушек в воспитании, передаче традиций. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_feiertage",
+      "name": "🎤 Feste und Feiertage",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Feste und Feiertage feiern – warum ist das wichtig?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Праздники в нашей жизни'. Расскажи, какие праздники важны для тебя и почему, о традициях в твоей семье. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_studium_arbeit",
+      "name": "🎤 Studieren oder Geld verdienen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Studieren oder sofort Geld verdienen – was ist die bessere Entscheidung?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Учиться или сразу зарабатывать'. Сравни оба пути, приведи плюсы и минусы. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_umwelt_muell",
+      "name": "🎤 Umweltschutz und Müll",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Umweltschutz – so viel Müll! Was können wir tun?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Охрана окружающей среды и мусор'. Обсуди проблему, возможные решения и личную ответственность. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_strenge_eltern",
+      "name": "🎤 Sollen Eltern streng sein",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Sollen Eltern streng sein? Strenge Erziehung – Vor- und Nachteile\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Должны ли родители быть строгими'. Обсуди разные стили воспитания, их последствия. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_dorf_stadt",
+      "name": "🎤 Land oder Stadt",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Leben auf dem Land oder in der Stadt – was ist besser?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Жизнь в деревне или городе'. Сравни оба варианта, выскажи своё предпочтение с аргументами. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_tschuss_mama",
+      "name": "🎤 Mit 25 noch bei den Eltern",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Tschüss Mama, hallo Oma – mit 25 noch bei den Eltern wohnen: normal oder nicht?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Жить с родителями в 25 лет'. Обсуди причины, плюсы и минусы, отношение общества. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_auto_bahn",
+      "name": "🎤 Auto oder öffentliche Verkehrsmittel",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Auto oder öffentliche Verkehrsmittel – was ist die bessere Wahl?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Автомобиль или общественный транспорт'. Сравни по удобству, цене, экологии. Будь готов к вопросам экзаменатора."
+    },
+    {
+      "id": "prä_kinder_karriere",
+      "name": "🎤 Kinder oder Karriere",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Kinder oder Karriere – ein Widerspruch?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Дети или карьера'. Обсуди дилемму, современные тенденции и возможные решения. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_buecher",
+      "name": "🎤 Elektronische oder gedruckte Bücher",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Elektronische oder gedruckte Bücher – was lesen Sie lieber?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Электронные или печатные книги'. Сравни оба формата, выскажи личное предпочтение. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_wohnen",
+      "name": "🎤 Mieten oder kaufen",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Mietwohnung oder Haus kaufen – was ist besser?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Арендовать жильё или купить дом'. Рассмотри финансовые и жизненные аспекты. Экзаменатор задаст уточняющие вопросы."
+    },
+    {
+      "id": "prä_kindergarten",
+      "name": "🎤 Kindergarten – Vor- und Nachteile",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Kindergarten – Vor- und Nachteile für Kinder und Eltern\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Детский сад: плюсы и минусы'. Обсуди влияние на развитие ребёнка и жизнь родителей. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_sport_beruf",
+      "name": "🎤 Sport als Beruf",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Sport als Beruf – Traum oder Albtraum?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Спорт как профессия'. Обсуди привлекательность, риски и реалии профессионального спорта. Экзаменатор задаст вопросы."
+    },
+    {
+      "id": "prä_berufstaet_eltern",
+      "name": "🎤 Berufstätige Eltern",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Berufstätige Eltern – wie beeinflusst das die Kinder?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Работающие родители'. Обсуди влияние на детей, плюсы и минусы, роль государственной поддержки. Будь готов к вопросам."
+    },
+    {
+      "id": "prä_fahrrad_arbeit",
+      "name": "🎤 Mit dem Fahrrad zur Arbeit",
+      "role": "Prüfer",
+      "role_ru": "Экзаменатор",
+      "starter": "Ihr Thema für die Präsentation ist: \"Mit dem Fahrrad zur Arbeit – eine gute Idee?\". Sie haben 2 Minuten Zeit. Bitte beginnen Sie.",
+      "description": "Сделай презентацию на тему 'Ехать на работу на велосипеде'. Обсуди пользу для здоровья, экологии и экономии, а также возможные трудности. Экзаменатор задаст вопросы."
+    }
+  ]
+}
