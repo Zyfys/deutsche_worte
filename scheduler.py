@@ -4,7 +4,7 @@ from apscheduler.triggers.cron import CronTrigger
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application
 from database import get_all_user_ids, get_sent_words, save_word
-from services.gemini import generate_daily_word
+from services.groq_service import generate_daily_word
 from services.word_service import format_word_message
 
 _MENU_BTN = InlineKeyboardMarkup([[InlineKeyboardButton("🏠 Главное меню", callback_data="menu:main")]])

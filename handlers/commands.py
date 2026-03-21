@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes, CallbackQueryHandler
 from database import ensure_user, get_word_count, get_quiz_history
-from services.gemini import generate_daily_word
+from services.groq_service import generate_daily_word
 from services.word_service import format_word_message
 from database import get_sent_words, save_word
 

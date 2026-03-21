@@ -55,7 +55,7 @@ async def handle_voice(update: Update, context: ContextTypes.DEFAULT_TYPE):
     else:
         # Показываем что распознали и ищем слово
         await update.message.reply_text(f'🎤 Распознано: *"{text}"*', parse_mode="Markdown")
-        from services.gemini import lookup_word
+        from services.groq_service import lookup_word
         from services.word_service import format_lookup_message
         try:
             data = lookup_word(text)

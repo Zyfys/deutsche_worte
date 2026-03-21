@@ -7,6 +7,9 @@ def format_word_message(data: dict) -> str:
     pos = data.get("part_of_speech", "")
 
     if article:
+        # Убираем артикль из начала слова, если Gemini уже включил его
+        if word.lower().startswith(article.lower() + " "):
+            word = word[len(article) + 1:]
         lines.append(f"🎯 *{article} {word}*")
     else:
         lines.append(f"🎯 *{word}*")

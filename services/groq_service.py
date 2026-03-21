@@ -8,7 +8,7 @@ _client = Groq(api_key=GROQ_API_KEY)
 _MODEL = GROQ_MODEL
 
 _WORD_SCHEMA = """{
-  "word": "строка — само немецкое слово",
+  "word": "строка — само немецкое слово БЕЗ артикля (например: 'Arbeit', а не 'die Arbeit')",
   "article": "der/die/das или null для глаголов/прилагательных",
   "part_of_speech": "verb/noun/adjective/adverb",
   "präteritum": "форма претерита (только для глаголов, иначе null)",

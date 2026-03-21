@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ContextTypes
 from database import ensure_user, get_active_session
-from services.gemini import lookup_word
+from services.groq_service import lookup_word
 from services.word_service import format_lookup_message
 
 _MENU_BTN = InlineKeyboardMarkup([[InlineKeyboardButton("🏠 Главное меню", callback_data="menu:main")]])
