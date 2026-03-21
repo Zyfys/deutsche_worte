@@ -54,7 +54,7 @@ def generate_daily_word(used_words: list[str]) -> dict:
     if _GOETHE_WORDS:
         available = [w for w in _GOETHE_WORDS if w not in exclude]
         if available:
-            pick = random.choice(available[:50])
+            pick = random.choice(available)
             suggestion = f"\nПредпочтительно используй слово из списка Goethe B1, например: «{pick}». Если оно уже в исключениях — выбери похожее по уровню."
 
     prompt = f"""Ты помогаешь учить немецкий язык. Сгенерируй одно немецкое слово уровня A2–B1.{suggestion}
