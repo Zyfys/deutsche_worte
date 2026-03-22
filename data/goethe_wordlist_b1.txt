@@ -1,249 +1,2426 @@
-# Goethe-Zertifikat B1 — Основные слова (официальный список)
-# Используется для генерации слова дня по уровню
-
-# Глаголы
+ab
+abbiegen
+der Abend
+abends
+das Abenteuer
+aber
+abfahren
+die Abfahrt
+der Abfall
+Abgase
+abgeben
+abheben
 abholen
+abhängen
+das Abitur
 ablehnen
-abmachen
+abnehmen
+das Abo
+das Abonnement
+abonnieren
 absagen
-abschließen
+der Abschluss
+der Abschnitt
+abschreiben
+der Absender
+die Absenderin
+die Absicht
+absolut
+abstimmen
+der Abwart
+die Abwartin
+abwesend
+abwärts
+achten
+die Adresse
+der Affe
+Akademie
+der Akku
+die Aktion
+aktiv
+aktuell
+akzeptieren
+der Alarm
+der Alkohol
+all-
+aller-
+allerdings
+allgemein
+der Alltag
+das Alphabet
+als
+also
+alt
+das Alter
+alternativ
+das Altersheim
+der Ammann
+die Ammännin
+die Ampel
+das Amt
+sich amüsieren
+analysieren
+anbieten
+ander-
+andererseits
+anders
+anerkennen
 anfangen
+angeben
+die Angehörige
+der Angehörige
+angenehm
+die Angst
+anhaben
+anklicken
+ankommen
+ankreuzen
+die Ankunft
+ankündigen
+die Anlage
 anmelden
+annehmen
+die Annonce
+die Anrede
+der Anrufbeantworter
 anrufen
+die Ansage
+anschaffen
+anschließen
+der Anschluss
+anschnallen
+ansehen
+der Anspruch
+anstellen
+sich anstrengen
+der Antrag
+der Antwortbogen
 antworten
+der Anwalt
+anwenden
+anwesend
+die Anwältin
+die Anzeige
+anzeigen
+der Anzug
+das Apartment
+der Apfel
+die Apotheke
+der Apparat
+der Appetit
+die Aprikose
+der April
 arbeiten
+der Architekt
+die Architektin
+arm
+der Arm
+die Art
+der Artikel
+der Arzt
+das Asyl
+atmen
+der Aufenthalt
+auffallen
+auffordern
+aufführen
+die Aufgabe
+aufgeben
+aufhalten
+aufheben
 aufhören
-aufmachen
+aufladen
+auflösen
+aufmerksam
+aufnehmen
+aufpassen
+aufregen
 aufräumen
 aufstehen
-ausgeben
-aussuchen
-basteln
-beachten
-bedeuten
-beginnen
-begrüßen
-benutzen
-beschreiben
-bestellen
-besuchen
-bezahlen
-bitten
-bleiben
-brauchen
-bringen
-buchstabieren
-danken
-denken
-diskutieren
-einladen
-einkaufen
-einschlafen
-empfehlen
-entscheiden
-erklären
-erzählen
-fahren
-fallen
-finden
-fragen
-freuen
-funktionieren
-geben
-gefallen
-gehören
-gewinnen
-glauben
-haben
-helfen
-hören
-kaufen
-kennen
-kommen
-kochen
-lachen
-laufen
-legen
-leihen
-lesen
-liegen
-machen
-meinen
-mieten
-mitbringen
-mitnehmen
-müssen
-nehmen
-öffnen
-passen
-planen
-putzen
-reden
-reisen
-reservieren
-rufen
-sagen
-schicken
-schlafen
-schreiben
-sehen
-sein
-spielen
-sprechen
-starten
-stellen
-suchen
-tanzen
-telefonieren
-treffen
-trinken
-tun
-übersetzen
-umziehen
-verbinden
-vergessen
-verkaufen
-verlassen
-verstehen
-vorstellen
-warten
-wechseln
-werden
-wissen
-wohnen
-zahlen
-zeigen
-
-# Существительные
-die Adresse
-die Antwort
-die Arbeit
-der Arzt
-die Ärztin
+der Auftrag
+auftreten
+aufwärts
+der Aufzug
+das Auge
+der Augenblick
+der August
+aus
+ausdrucken
+auseinander
+die Ausfahrt
+ausfallen
 der Ausflug
+ausfüllen
+die Ausgabe
+der Ausgang
+ausgeben
+ausgehen
+ausgezeichnet
+die Aushilfe
 die Auskunft
+das Ausland
+die Ausnahme
+ausrichten
+die Aussage
+ausschließen
+ausschließlich
+aussehen
+die Aussicht
+ausstellen
 der Ausweis
+auswählen
+ausziehen
+das Auto
+der Automat
+der Autor
+die Autorin
+außen
+außer
+außerdem
+der Azubi
+das Baby
+der Babysitter
+die Babysitterin
+backen
+baden
 die Bahn
 der Bahnhof
+der Bahnsteig
+bald
+der Balkon
+der Ball
+das Ballett
+die Banane
+der Bancomat/Bankomat
+die Band
 die Bank
+die Bankleitzahl
+die Bankomat
+bar
+die Bar
+der Bart
+der Basketball
+basteln
+die Batterie
+der Bauch
+bauen
+der Bauer
+der Baum
+beachten
+der Beamte
+die Beamtin
+beantragen
+beantworten
+sich bedanken
+der Bedarf
+bedeuten
+bedienen
+sich beeilen
+beeinflussen
+beenden
+sich befinden
+befreit
+befriedigend
+begegnen
+begeistert
+beginnen
+begleiten
+begrenzt
+begründen
+begrüßen
+behalten
+behandeln
+behaupten
+behindern
+behindert
+die Behörde
+beid-
+das Bein
+beinahe
+das Beispiel
+der Beitrag
+beißen
+bekannt
+bekommen
+der Beleg
+beleidigen
+beliebt
+bemerken
+sich bemühen
+benutzen
+das Benzin
+benötigen
+beobachten
+bequem
+beraten
+berechnen
+der Bereich
+bereit
+bereitet
+bereits
+der Berg
+berichten
 der Beruf
-der Brief
-das Büro
-der Bus
+die Berufsmittelschule
+die Berufsschule
+beruhigen
+berühmt
+der Bescheid
+beschließen
+beschreiben
+beschränken
+sich beschweren
+beschwert
+beschädigen
+beschäftigen
+besetzen
+besichtigen
+besitzen
+besonder-
+besorgen
+bestehen
+bestellen
+bestimmt
+bestrafen
+bestätigen
+sich beteiligen
+der Betrag
+betreuen
+der Betrieb
+die Betriebsrätin
+betrunken
+betrügen
+das Bett
+bevor
+bewegen
+beweisen
+sich bewerben
+bewies
+der Bewohner
+die Bewohnerin
+bezahlen
 die Bibliothek
-das Datum
+die Biene
+das Bier
+biert
+bieten
+der Bikini
+das Bild
+der Bildschirm
+billig
+die Biologie
+die Birne
+bisher
+bitten
+bitter
+blass
+das Blatt
+blau
+bleiben
+der Bleistift
+der Blick
+blind
+blitzen
+der Blog
+bloggen
+blond
+bloß
+die Blume
+die Bluse
+bluten
+blühen
+der Boden
+der Bogen
+die Bohne
+das Boot
+braten
+braun
+breit
+bremsen
+brennen
+der Brief
+die Brieftasche
+der Briefumschlag
+die Brille
+bringen
+die Broschüre
+das Brot
+der Bruder
+die Brust
+das Brötli
+die Brücke
+der Bub
+das Buch
+buchstabieren
+das Buffet
+der Bundeskanzler
+die Bundeskanzlerin
+das Bundesland
+der Bundespräsident
+die Bundespräsidentin
+der Bundesrat
+Bundesrepublik
+die Bundesrätin
+der Bundestag
+bunt
+die Burg
+der Bus
+die Butter
+der Bär
+böse
+die Büchse
+die Bühne
+der Bürger
+die Bürgerin
+der Bürgermeister
+die Bürgermeisterin
+das Büro
+die Bürste
+das Caf
+die Cafeteria
+das Camp
+campen
+die Castingshow
+der CD-Player
+die Chance
+der Chat
+chatten
+checken
+der Chef
+die Chefin
+Chemie
+der Chip
+die City
+der Club
+der Coiffeur
+die Coiffeuse
+die Cola
+der Comic
+der Computer
+Confoederatio
+cool
+die Couch
+der Cousin
+die Cousine
+das Couvert
+die Creme
+dabei
+das Dach
+Dachauer
+dafür
+dagegen
+daher
+dahin
+damals
+die Dame
+damit
+danach
+daneben
+danken
+dapfel
+darstellen
+dass
+dasselbe
+die Datei
+die Daten
+dauern
+dauernd
+die Decke
+dekorieren
+die Demokratie
+denken
+das Denkmal
+denn
+derselbe
+deshalb
+das Dessert
+deswegen
+das Detail
+deutlich
+der Dezember
+der Dialekt
+der Dialog
+dicht
+dick
+der Dieb
+dienen
+der Dienst
+der Dienstag
+dies-
+digital
+das Ding
+das Diplom
+direkt
+der Direktor
+die Direktorin
+die Diskothek
+diskutieren
+die Distanz
+die Diät
+doch
+der Doktor
+die Doktorin
 das Dokument
-die E-Mail
+donnern
+der Donnerstag
+doppelt
+das Dorf
+die Dose
+draußen
+der Dreck
+drehen
+drei
+drin
+dringend
+die Droge
+die Drogerie
+drucken
+drüben
+drücken
+dumm
+dunkel
+durcheinander
+die Durchsage
+der Durchschnitt
+der Durst
+duzen
+die DVD
+dünn
+dürfen
+das E-Bike
+das E-Book
+eben
+ebenfalls
+ebenso
+echt
+das Eck
+die Ecke
+das EG
+egal
+die Ehe
+eher
+ehrlich
+das Ei
+eigen-
+eigentlich
+sich eignen
+eilen
+ein-
+die Einbahnstraße
+die Einbrecherin
+eindeutig
+der Eindruck
+einerseits
+einfach
+die Einfahrt
+einfallen
+der Einfluss
+einfügen
+einführen
+der Eingang
+einheitlich
+einig-
+sich einigen
+einkaufen
+das Einkommen
+einladen
+einmal
+einnehmen
+einpacken
+einrichten
+einsam
+einschalten
+einschließlich
+das Einschreiben
+einsetzen
+einsteigen
+einstellen
+eintragen
+eintreten
+einverstanden
+der Einwohner
+die Einwohnerin
+einzahlen
+einzeln
+einziehen
+einzig-
+das Eis
+die Eisenbahn
+der Elefant
+elegant
+elektrisch
+die Eltern
+empfangen
+empfehlen
+enden
+endlich
+die Energie
+eng
+der Enkel
+die Enkelin
+entdecken
+die Ente
+entfernen
+entgegenkommen
+enthalten
+entlang
+entlassen
+entscheiden
+sich entschließen
+entschließt
+entschloss
+entschuldigen
+entschuldigt
+entsorgen
+entspannend
+entstand
+entstehen
+entweder
+entwickeln
+der Erdapfel
+die Erde
+erfahren
+erfinden
+der Erfolg
+erforderlich
+erfordern
+erfüllen
+ergänzen
+erhalten
+sich erholen
+erholt
+erhöhen
+erinnern
+erkennen
+erklären
+sich erkundigen
+erkundigt
+erlauben
+erleben
+erledigen
+erleichtern
+ernst
+die Ernte
+ernähren
+erschrak
+erschrecken
+erschreckt
+erschöpft
+ersetzen
+erst
+erst-
+erste
+erstellen
+erwachsen
+der Erwachsene
+erwarten
+erziehen
+erzählen
+eröffnen
+essen
+der Essig
+die Etage
+etwa
+etwas
+sich etwas
+die EU
+die Europäische Union
+eventuell
+ewig
+der Experte
+der Export
+extra
+extrem
+die Fabrik
+das Fach
+fahren
+das Fahrrad
+fair
+der Faktor
+der Fall
+fallen
+falls
+falsch
 die Familie
+der Familienstand
+der Fan
+fand
+fangen
+die Fantasie/Phantasie
+die Farbe
+das Faschierte
+der Fasching
+die Fasnacht
+fassen
+fasst
+fast
+faul
+faulenzen
+der Fauteuil
+das Fax
+faxen
+der Feber
+der Februar
+fehlen
+der Fehler
+feiern
+das Feld
 das Fenster
+fentlicht
+die Ferien
+Ferien-
+fernsehen
+fertig
+das Fest
+fest
+festhalten
+das Festival
+festlegen
+festnehmen
+die Festplatte
+festsetzen
+feststehen
+feststellen
+fett
+feucht
+das Feuer
+das Fieber
+die Figur
+der Film
+finanzieren
+finden
+fing
+der Finger
+die Firma
+der Fisch
+fit
+die Fitness
+flach
+die Flasche
+der Fleck
+das Fleisch
+der Fleischhauer
+die Fleischhauerin
+fleißig
+flexibel
+die Fliege
+fliegen
+fliehen
+fließen
+der Flohmarkt
+der Flug
+der Flur
+der Fluss
+die Fläche
+die Flöte
+folgen
+die Folie
+fordern
+die Form
 das Formular
-die Freizeit
-das Frühstück
+der Fortschritt
+fortsetzen
+das Forum
+fotografieren
+fragen
+die Frau
+frech
+frei
+der Freitag
+freiwillig
+fremd
+fressen
+sich freuen
+der Freund
+der Friede
+frieren
+frisch
+der Friseur
+die Friseurin
+die Frist
+froh
+die Frucht
+Früchte
+früh
+das Frühjahr
+frühstücken
+das Fundbüro
+funktionieren
+furchtbar
+der Fuß
+fällig
+fördern
+fühlen
+führen
+der Führerausweis
+der Führerschein
+füttern
+die Gabel
+die Galerie
+der Gang
+gar
+die Garage
+garantieren
+die Garderobe
+der Garten
+das Gas
+der Gast
+das Gasthaus
+die Gaststätte
+das Gebiet
+das Gebirge
+die Geburt
+das Gebäck
+das Gebäude
+die Gebühr
+das Gedicht
+die Geduld
+die Gefahr
+das Gefühl
+die Gegend
+der Gegensatz
+der Gegenstand
+das Gegenteil
+das Gehalt
+der Gehsteig
+gelb
 das Geld
+der Geldautomat
+die Geldbörse
+die Gemeinde
+das Gemüse
+die Generation
+Geografie
+das Gepäck
+das Gericht
+das Gerät
+die Gesamtschule
+das Geschenk
+die Geschichte
+das Geschirr
+das Geschlecht
+der Geschmack
+die Geschwindigkeits
+die Geschwister
+das Geschäft
+das Gesetz
+das Gesicht
 das Gespräch
-die Gesundheit
-der Geburtstag
+das Getränk
+die Gewalt
+das Gewicht
+das Gewissen
+das Gewitter
+das Gewürz
+gießen
+das Gift
+die Giraffe
+die Gitarre
+das Glas
+glatt
+glauben
+gleich
+das Gleis
+global
+das Glück
+der Glückwunsch
+Goethe-Institut
+das Gold
+Golf
+googeln
+der Gott
+die Grafik
+das Gras
+gratis
+die Gratulation
+gratulieren
+grau
+greifen
+die Grenze
+grillen
+grillieren
+die Grippe
+groß
+Groß-
+der Grund
+die Grundschule
+das Grundstück
+die Gruppe
+grün
+gründen
+gründlich
+grüßen
+gucken
+gut
+das Gymnasium
+die Gymnastik
+gültig
+günstig
+das Haar
+das Hackfleisch
+der Hafen
+hageln
+halb
+die Halle
+hallo
+der Hals
+halt
+haltbar
+halten
+der Hamburger
+der Hammer
+die Hand
+handeln
+die Handwerkerin
+das Handy
+hart
+der Hase
+hassen
+hatte
+Haupt-
+die Hauptschule
+das Haus
+die Haut
+heben
+das Heft
+heim
+das Heim
+die Heimat
+heimlich
+das Heimweh
+heiraten
+heizen
+heiß
+heißen
+der Held
+die Heldin
+helfen
+hell
+das Hemd
+das Hend
+heraus
+der Herbst
+der Herd
+herein-
+die Herkunft
+der Herr
+herstellen
+herunter
+herunter-
+das Herz
+herzlich
+hierher
+das Hilfsmittel
+der Himmel
+hinten
+hinterher
+hinterlassen
+hinweisen
+historisch
+der Hit
+die Hitze
 das Hobby
+hoch
+hochladen
+die Hochschule
+die Hochzeit
+der Hof
+hoffen
+holen
+das Holz
+die Homepage
+der Honig
+die Hose
 das Hotel
-die Information
+der Humor
+der Hund
+der Hunger
+hupen
+husten
+der Hut
+die Hälfte
+hält
+hängen
+hässlich
+häufig
+höchstens
+höflich
+die Höhe
+Höhere
+hören
+hübsch
+der Hügel
+die Hütte
+der ICE
+icht
+ideal
+die Idee
+iert
+Ihre
+illegal
+der Imbiss
+immer
+immt
+der Import
+indem
+individuell
+die Industrie
+die Infektion
+informieren
+der Ingenieur
+der Inhalt
+inklusive
+innen
+das Insekt
+die Insel
+das Inserat
+insgesamt
+installieren
+das Institut
+das Instrument
+integrieren
+intelligent
+intensiv
+interessieren
+interkulturell
+international
+das Internet
+das Interview
+irgend-
+sich irren
+die Jacke
 das Jahr
+das Jahrhundert
+das Jahrtausend
+das Jahrzehnt
+der Januar
+die Jause
+der Jazz
+je
+die Jeans
+jeder
+jedoch
+jemals
+jemand
+jeweils
 der Job
+jobben
+joggen
+der Journalist
+die Journalistin
+die Jugend
+die Jugendherberge
+die Jugendliche
+der Jugendliche
+der Juli
+jung
+der Junge
+der Juni
+jährlich
+der Jänner
+das Kabel
+die Kabine
+der Kaffee
+das Kaffeehaus
+der Kakao
+der Kalender
+kalt
+die Kamera
+der Kanal
+der Kandidat
+die Kanne
+die Kantine
+der Kanton
+das Kapitel
+kaputt
+der Karneval
+die Karotte
+die Karriere
+die Karte
+die Kartoffel
+die Kasse
+die Kassette
+der Kasten
+der Katalog
+die Katastrophe
+die Katze
+kaum
+kein-
+der Keller
+der Kellner
+die Kellnerin
+kennen
+kennenlernen
+die Kenntnisse
+die Kerze
+der Ketchup
+die Kette
+das Kfz
+kg
+der Killer
 das Kind
+der Kindergarten
+die Kindertagesstätte
+das Kino
+der Kiosk
+die Kirche
+das Kissen
+die Kiste
+klagen
+klappen
+klar
+die Klasse
+klasse
+die Klassenarbeit
+das Klavier
+kleben
+das Kleid
+klein
+klettern
+klicken
+das Klima
+klingeln
+klingen
+die Klinik
+klopfen
+der Kloß
+klug
+klären
+knapp
+die Kneipe
+das Knie
+der Knopf
+der Knödel
+der Koffer
 der Kollege
 die Kollegin
-das Krankenhaus
-die Krankheit
+komisch
+kommen
+der Kommentar
+kommt
+die Kommunikation
+komplett
+kompliziert
+der Kompromiss
+die Konferenz
+die Konfitüre
+der Konflikt
+die Konkurrenz
+konservativ
+das Konsulat
+konsumieren
+der Kontakt
+Kontinent
+das Konto
+kontrollieren
+sich konzentrieren
+konzentriert
+das Konzert
+der Kopf
+kopieren
+korrekt
+der Korridor
+korrigieren
+kosten
+das Kostüm
+die Kraft
+das Kraftfahrzeug
+das Kraftwerk
+krank
+die Krankenschwester
+kreativ
+der Kredit
+der Kreis
+das Kreuz
+der Krieg
+kriegen
+der Krimi
+Kriminal-
+die Kriminalpolizei
+die Krippe
+die Krise
+kritisieren
+das Krokodil
+der Kugelschreiber
+die Kuh
+die Kultur
+der Kunde
+die Kundin
+die Kunst
 der Kurs
+die Kurve
+kurz
+der Kuss
+das Kuvert
+kämpfen
+der Käse
+der König
+können
+der Körper
+die Küche
+kühl
+sich kümmern
+kündigen
+künstlich
+kürzlich
+küssen
+die Küste
 der Laden
+die Lage
+das Lager
+die Lampe
 das Land
+landen
+lang
+lange
+langsam
+sich langweilen
+langweilig
+der Laptop
+lassen
+der Laster
+laufen
+das Laufwerk
+die Laune
+laut
+der Lautsprecher
+leben
 die Lebensmittel
+lecker
+das Leder
+ledig
+leer
+legen
+die Lehre
 der Lehrer
 die Lehrerin
-die Leute
-die Miete
-die Meinung
-der Mensch
-das Medikament
-die Möglichkeit
-der Monat
-der Nachbar
-die Nachricht
-das Paket
-der Pass
-die Person
-die Post
-das Praktikum
-das Problem
-der Preis
-die Reise
-das Restaurant
-die Schule
-der Supermarkt
-die Telefonnummer
-der Termin
-die Uhrzeit
-der Unterricht
-der Urlaub
-die Verabredung
-die Verbindung
-der Verkehr
-die Veranstaltung
-das Visum
-die Wohnung
-das Wörterbuch
-die Zeit
-das Zimmer
-der Zug
-die Zeitung
-
-# Прилагательные
-alt
-angenehm
-arm
-beschäftigt
-billig
-deutlich
-direkt
-einfach
-eng
-frei
-freundlich
-frisch
-früh
-gefährlich
-genug
-gesund
-glücklich
-groß
-günstig
-gut
-interessant
-jung
-kalt
-kaputt
-klein
-krank
-kurz
-lang
-laut
 leicht
+leid
+leiden
+leider
+leihen
+leise
+leisten
+leiten
+die Leiter
+lernen
+lesen
+letzt-
+die Leute
+das Lexikon
+liberal
+das Licht
+lieb
+lieben
+das Lied
+liefern
+liegen
+lienstand
+der Lift
+lila
+die Limonade
+die Linie
+der Link
+links
+die Lippe
+die Liste
+die Literatur
+live
+der Lkw
+loben
+das Loch
+locker
+der Lohn
+sich lohnen
+das Lokal
+losfahren
+die Luft
+die Lust
 lustig
+lächeln
+längst
+der Lärm
+lässt
+der Löffel
+lösen
+der Löwe
+lügen
+das Magazin
+der Magen
+mager
+die Mahlzeit
+der Mai
+die Mail
+die Mailbox
+mailen
+das Mal
+mal
+malen
+der Manager
+die Managerin
+manch-
+manchmal
+der Mangel
+der Mann
+der Mantel
+die Mappe
+die Margarine
+die Marille
+die Marke
+markieren
+der Markt
+die Marmelade
+die Maschine
+das Material
+Mathematik
+die Matura
+die Mauer
+die Maus
+maximal
+der Mechaniker
+die Mechanikerin
+die Medien
+das Medikament
+die Medizin
+das Meer
+das Mehl
+mehr
+die Mehrwertsteuer
+meinen
+meinetwegen
+meist-
+der Meister
+melden
+die Menge
+die Mensa
+der Mensch
+das Menü
+merken
+merkwürdig
+die Messe
+messen
+das Messer
+das Metall
+die Methode
+die Metropole
+der Metzger
+mieten
+der Migrant
+die Migrantin
+die Migration
+die Milch
+mild
+Milliarde
+mindestens
+das Mineralwasser
+minimal
+der Minister
+die Ministerin
+die Minute
+Minuten
+miss-
+der Mitarbeiter
+die Mitarbeiterin
+miteinander
+das Mitglied
+der Mittag
+mittags
+die Mitte
+mitteilen
+das Mittel
+die Mittelschule
+mitten
+die Mitternacht
+mittler-
+mittlerweile
+der Mittwoch
+die Mobilbox
+die Mode
+das Modell
+der Moderator
+die Moderatorin
 modern
+das Modul
+der Moment
+der Monat
+monatlich
+der Mond
+monee
+der Monitor
+der Montag
+der Morgen
+morgens
+der Motor
+das Motorrad
+das Mountainbike
+der Mund
+das Museum
+die Musik
+der Muskel
+der Mut
+mutig
+die Mutter
+der März
+das Möbel
+möchten
+mögen
 möglich
+die Möhre
+die Mücke
 müde
+das Müesli/Müsli
+die Mühe
+der Müll
+die Münze
+müssen
+sich nach
+der Nachbar
+die Nachbarin
+nachdem
+nachdenken
+die Nachfrage
+nachher
+die Nachhilfe
+der Nachmittag
+nachmittags
+die Nachricht
+nachschlagen
+die Nachspeise
+die Nacht
+nacht
+der Nachteil
+nachts
+der Nachwuchs
+die Nadel
+der Nagel
+das Nahrungsmittel
+der Name
+die Nase
+nass
+Nationalfeiertag
+der Nationalrat
+die Natur
+natürlich
+der Nebel
+neben
+nebenbei
+der Neffe
+negativ
+nehmen
+nennen
+der Nerv
+nervös
 nett
+das Netz
+das Netzwerk
 neu
+neugierig
+Neujahr
+neulich
+die Nichte
+der Nichtraucher
+die Nichtraucherin
+nichts
+nie
+niedrig
+niemand
+nirgends
+nirgendwo
+nochmals
+der Norden
+normal
+Not-
+die Note
+notieren
+die Notiz
+notwendig
+der November
+die Nudel
+die Nummer
+nun
+nutzen
+nächst-
+nähen
+sich nähern
+nämlich
+nötig
+nützen
+ob
+oben
+Ober
+das Obst
+obwohl
 offen
-pünktlich
+offenbar
+offiziell
+das OG
+das Ohr
+der Oktober
+die Oma
+der Onkel
+online
+der Opa
+die Oper
+operieren
+das Opfer
+optimistisch
+orange
+die Orange
+das Orchester
+ordentlich
+die Ordination
+ordnen
+ordnet
+organisieren
+Orientierungsstufe
+das Original
+der Ort
+der Osten
+Ostern
+der Ozean
+das Paar
+packen
+das Paket
+die Panne
+das Papier
+der Paradeiser
+parallel
+das Parfüm
+der Park
+parken
+parkieren
+das Parlament
+die Partei
+der Partner
+die Partnerin
+die Party
+der Pass
+der Passagier
+die Passagierin
+passen
+passieren
+passiv
+der Patient
+die Patientin
+pauschal
+die Pause
+der PC
+das Pech
+peinlich
+die Pension
+pensioniert
+Pensionistin
+per
+perfekt
+der Perron
+die Person
+das Personal
+der Personenstand
+die Pfanne
+der Pfeffer
+das Pferd
+Pfingsten
+pflanzen
+das Pflaster
+die Pflaume
+pflegen
+die Pflicht
+die Phantasie/Fantasie
+Philosophie
+Physik
+das Picknick
+die Pille
+der Pilz
+der Pinguin
+die Pizza
+der Pkw
+das Plakat
+planen
+das Plastik
+die Plattform
+der Platz
+plötzlich
+die Politik
+die Polizei
+die Pommes
+populär
+das Portemonnaie/Port
+portiert
+die Portion
+positiv
+die Post
+das Poster
+das Poulet
+das Praktikum
+praktisch
+die Praxis
+der Preis
+die Presse
+prima
+die Primarschule
+privat
+pro
+probieren
+das Problem
+produzieren
+der Professor
+die Professorin
+der Profi
+die Profisportlerin
+das Programm
+das Projekt
+der Prospekt
+Prost
+protestieren
+der Prozess
+die Präsentation
+präsentieren
+prüfen
+das Publikum
+der Pullover
+der Punkt
+die Puppe
+putzen
+das Puzzle
+die Pädagogische Hochschule
+die Qualifikation
+die Qualität
+das Quartier
+quer
+das Quiz
+der Rabatt
+das Rad
+radeiser
+die Radfahrerin
+das Radio
+der Rand
+der Rasen
+raten
+das Rathaus
+der Raum
+realisieren
+die Realschule
+die Recherche
+rechnen
+recht
+das Recht
+rechts
+rechtzeitig
+reden
+reduzieren
+das Referat
+die Reform
+das Regal
+die Regel
+regeln
+der Regierungsrat
+die Regierungsrätin
+die Region
+regnen
+reich
+reif
+der Reifen
+die Reihe
+die Reihenfolge
+rein
+reinigen
+der Reis
+reisen
+reiten
+die Reklame
+der Rekord
+relativ
+die Religion
+rennen
+die Rente
+reparieren
+die Reportage
+Republik
+reservieren
+der Respekt
+der Rest
+das Restaurant
+retten
+das Rezept
+die Rezeption/Reception
+der Richter
+die Richterin
 richtig
-ruhig
+riesig
+das Rind
+der Ring
+das Risiko
+der Rock
+roh
+die Rolle
+der Roman
+rosa
+die Rose
+rot
+der Rucksack
+rufen
+die Ruhe
+rund
+die Runde
+die Rundfahrt
+rück-
+der Rücken
+die Rücksicht
+das Rüebli
+der Saal
+die Sache
+der Sack
+der Saft
+sagen
+die Saison
+der Salat
+die Salbe
+der Salon
+das Salz
+sammeln
+der Samstag
+der Sand
+das Sandwich
+satt
+der Satz
+sauber
+sauer
+die Schachtel
+schade
+schaden
+das Schaf
+schaffen
+schalten
+scharf
+der Schatten
+schauen
+der Schauspieler
+die Schauspielerin
+die Scheibe
+sich scheiden
+scheiden
+scheidet
+der Schein
+scheinen
+schenken
+die Schere
+schicken
+schieben
+schief
+schießen
+das Schiff
+das Schild
+die Schildkröte
+schimpfen
+der Schinken
+der Schirm
+schlafen
+schlagen
+die Schlange
+schlank
 schlecht
+schließen
+schließlich
+schlimm
+das Schloss
+schlug
+der Schluss
+der Schlüssel
+schmal
+schmecken
+der Schmerz
+schminken
+der Schmuck
+der Schmutz
+der Schnee
+schneidet
+schneien
 schnell
-schön
+das Schnitzel
+der Schnupfen
+die Schokolade
+der Schrank
+der Schreck
+schreiben
+schreibt
+schreien
+die Schrift
+die Schriftstellerin
+der Schritt
+der Schuh
+die Schularbeit
+die Schuld
+die Schule
+die Schulter
+schwach
+schwamm
+das Schwammerl
+schwanger
+schwarz
+schweigen
+das Schwein
+Schweizerische
 schwer
+die Schwester
+Schwieger-
+schwierig
+schwimmen
+schwitzen
+schätzen
+schön
+die Schüssel
+schütteln
+schützen
+der See
+sehen
+die Seife
+die Seite
+der Sekretär
+die Sekretärin
+die Sekunde
+selb-
+selbst
+selbstständig
+selbstverständlich
+selten
+seltsam
+das Semester
+das Seminar
+die Semmel
+senden
+die Senioren
+senkrecht
+der September
+die Serie
+der Service
+der Serviceangestellte
+der Sessel
+die Show
+sicher
+sicherkälten
+sichern
+sichtbar
+siegen
+Silvester
+singen
+sinken
+der Sinn
+sioniert
+die Situation
+sitzen
+der Ski/Schi
+das Smartphone
+die SMS
+der Snack
+so
+sobald
+die Socke
+sodass
+das Sofa
+sofort
+die Software
+sogar
+sogenannt-
+der Sohn
+solange
+solch-
+sollen
+der Sommer
+Sonder-
+sondern
+die Sonderschule
+der Song
+der Sonnabend
+die Sonne
+der Sonntag
+sonst
+sorgen
+das Souvenir
+soviel
+sowieso
+sowohl
+sozial
+die Sozialarbeiterin
+die Soße/Sauce
+spannend
+sparen
+spazieren
+der Spaß
+speichern
+Spezial-
+speziell
+der Spiegel
+spielen
+spitz
+der Sport
+der Spot
+die Sprache
+die Sprechstunde
+springen
+die Spritze
+die Spur
+spät
+spülen
+spüren
+der Staat
+das Stadion
+die Stadt
+der Stadtpräsident
+die Stadtpräsidentin
+stammen
+der Standpunkt
+der Star
+stark
+starten
+die Station
+die Statistik
+statt
+stattfinden
+der Stau
+der Staub
+staubsaugen
+das Steak
+die Steckdose
+stecken
+der Stecker
+stehen
+stehlen
+steigen
+steil
+der Stein
+die Stelle
+stellen
+der Stempel
+sterben
+der Stern
+die Steuer
+der Steward
+die Stewardess
+der Stiefel
+die Stiege
+das Stiegenhaus
+der Stift
+der Stil
+still
+die Stimme
+stimmen
+stinken
+der Stock
+der Stoff
+stolz
+stoppen
+die Strafe
+der Strand
+die Straße
+die Straßenbahn
+die Strecke
+das Streichholz
+streiken
+streng
+der Stress
+stritt
+der Strom
+die Struktur
+der Strumpf
+die Studie
+studieren
+das Studio
+das Studium
+die Stufe
+der Stuhl
+stumm
+die Stunde
+der Sturm
+der Ständerat
+ständig
+stören
+das Stück/
+stündlich
+stürzen
+die Sucht
+sucht
+die Summe
+super
+der Supermarkt
+die Suppe
+surfen
+der Swimmingpool
+das Symbol
+sympathisch
+das System
+die Szene
+sämtliche
+der Sänger
+die Sängerin
+der Süden
+süß
+das T-Shirt
+die Tabelle
+die Tablette
+die Tafel
+der Tag
+der Tagesablauf
+tagsüber
+das Tal
+das Talent
+tanken
+die Tante
+tanzen
+die Tasche
+das Taschengeld
+das Taschentuch
+die Tasse
+die Tastatur
+die Taste
+die Tat
+die Tatsache
+taub
+das Taxi
+das Team
+die Technik
+der Tee
+teilen
+teilnehmen
+telefonieren
+der Teller
+die Temperatur
+das Tempo
+der Teppich
+der Termin
+der Terminal
+der Terminkalender
+die Terrasse
+testen
 teuer
-typisch
+der Text
+der Textaufbau
+das Theater
+das Thema
+theoretisch
+die Therapie
+thielt
+das Ticket
+tief
+das Tier
+der Tipp
+tippen
+der Tisch
+der Titel
+die Tochter
+der Tod
+die Toilette
+tolerant
+toll
+die Tomate
+der Topf
+das Tor
+die Torte
+tot
+total
+die Tour
+der Tourismus
+die Tradition
+tragen
+trainieren
+transportieren
+traurig
+treffen
+treiben
+der Trend
+die Treppe
+das Treppenhaus
+treten
+treu
+trinken
+trocken
+trocknen
+die Tropfen
+das Trottoir
+trotz
+trotzdem
+die Träne
+träumen
+das Tuch
+tun
+der Turm
+das TV
+twittern
+twittert
+der Typ
+täglich
+täuscht
+die Tür
+die Tüte
+die U
+das Ufer
+das UG
+die Uhr
+umarmen
+die Umfrage
+umgehen
+umgekehrt
+umgezogen
+umso
+umsonst
+umsteigen
+die Umwelt
+umziehen
+sich umziehen
+un-
+unbedingt
+der Unfall
+ungefähr
+ungewöhnlich
+unglaublich
+das Unglück
+unheimlich
+die Uniform
+die Universität
+unten
+unter
+unter-
+unterbrach
+die Unterkunft
+die Unterlagen
+unterlassen
+unterließ
+unternehmen
+die Unternehmerin
+unterrichten
+untersagt
+unterscheiden
+unterschreiben
+die Unterschrift
+unterstützen
+unterwegs
+die Urkunde
+der Urlaub
+die Ursache
+ursprünglich
+das Urteil
+der User
+die Userin
+die Vase
+der Vater
+vegetarisch
+das Velo
+verabredet
+verabschiedet
+verantwortlich
+verband
+verbessert
+verbieten
+verbinden
+verbot
+der Verbrecher
+die Verbrecherin
+verbrennt
+verbringen
+der Verdacht
+verdienen
+der Verein
+vereinbaren
+vergaß
+vergeblich
+vergessen
+verglich
+sich vergnügen
+vergrößern
+verhaften
+sich verhalten
+verheiratet
+verhindern
+verkaufen
+der Verkehr
+das Verkehrsmittel
+der Verkäufer
+die Verkäuferin
+der Verlag
+verlangen
+verlassen
+sich verlaufen
+sich verlieben
+verlieren
+verlängern
+verläuft
+vermeiden
+vermied
+vermieten
+vermissen
+vermuten
+vernünftig
+verpacken
+verpassen
+verpflegen
+verpflichtet
+verraten
+verreisen
+verrückt
+verschieben
+verschieden
+verschob
+verschreiben
+verschrieb
+verschwand
+verschwinden
+verschwindet
+versichern
+die Versichertenkarte
+versprach
+versteckt
+verständlich
+versäumen
+vert
+verteilen
+der Vertrag
+vertrauen
+vertreten
+verurteilen
+verwandt
+verwechseln
+verwenden
+verzeihen
+verzichten
+verzieh
+verändert
+das Video
+vielleicht
+das Viertel
+Vierter
+violett
+virtuell
+der Virus
+die Visitenkarte
+das Visum
+das Vitamin
+der Vogel
+die Volkshochschule
+die Volksschule
+voll
+Volleyball
+voneinander
+vor
+voraus
+voraussichtlich
+vorder-
+die Vorfahrt
+vorgestern
+vorhaben
+vorher
+vorhin
+vorkommen
+vorlesen
+vorläufig
+der Vormittag
+vorn
+der Vorort
+vorschlagen
+die Vorschrift
+die Vorsicht
+das Vorstellungsgespräch
+der Vorteil
+der Vortrag
+die Vorwahl
+der Vorwurf
+vorwärts
+völlig
+waagerecht
+wach
+wachsen
+der Wagen
+wahnsinnig
+wahr
+wahrscheinlich
+der Wald
+die Wand
+wandern
+wann
+die Ware
 warm
-wichtig
+warnen
+warten
+warum
+was
+das Wasser
+das WC
+wechseln
+wecken
+weder
+der Weg
+wegen
+wehtun
+weiblich
+weich
+sich weigern
+Weihnachten
+weil
+der Wein
+weinen
 weit
+weiß
+welcher
+die Welt
+wenden
+wenigstens
+wenn
+wer
+werfen
+das Werk
+wert
+der Wert
+weshalb
+der Westen
+der Wettbewerb
+wetten
+das Wetter
+die Wettervorhersage
+die WG
+wichtig
+widersprach
+widerspricht
+wie
+wiederholen
+wiegen
+wies
+die Wiese
+wieso
+wild
+willkommen
+der Wind
+winken
+der Winter
+wirft
+wirken
+wirklich
+der Wirt
+die Wirtin
+wissen
+der Wissenschaftler
+der Witz
+wo
+die Woche
+das Wochenende
+der Wochentag
+woher
+wohin
+wohl
+wohnen
+die Wolke
+die Wolle
+wollen
+das Wort
+wortet
+worum
+worüber
+die Wunde
+das Wunder
+sich wundern
+wundert
+die Wurst
+wählen
+während
+wöchentlich
+wütend
+die Zahl
+zahlen
+der Zahn
+die Zahncreme/
+die Zange
+zeichnen
+zeigen
+die Zeile
+die Zeit
+die Zeitschrift
+das Zelt
+zelten
+zentral
+das Zentrum
+zerstören
+das Zertifikat
+der Zettel
+das Zeug/
+der Zeuge
+die Zeugin
+ziehen
+das Ziel
+ziemlich
+die Zigarette
+das Zimmer
+die Zinsen
+der Zirkus
+die Zitrone
+der Zivilstand
+der Zoll
+die Zone
+der Zoo
+zubereiten
+der Zucker
+zuerst
+der Zufall
 zufrieden
+der Zug
+der Zugang
+zugehen
+das Zuhause
+zuhören
+die Zukunft
+zukünftig
+zuletzt
+zumindest
+zunehmen
+zunächst
+zuordnen
+zurechtkommen
+zurzeit
+zusagen
+die Zusammenarbeit
+zusammenfassen
+der Zusammenhang
+zuschauen
+die Zuschauerin
+der Zuschlag
+der Zustand
+zustimmen
+zuständig
+zusätzlich
+die Zutaten
+zuverlässig
+zwar
+der Zweck
+der Zweifel
+zweifeln
+die Zwiebel
+zählen
+die Zünder
+das Zündholz
+ähnlich
+ändern
+die Ärztin
+öffentlich
+öffnen
+Öko-
+das Öl
+üben
+über
+über-
+überall
+überfahren
+überhaupt
+überholen
+überlegen
+übermorgen
+übernachten
+übernehmen
+überprüfen
+überqueren
+überreden
+die Überschrift
+übersetzen
+die Überstunde
+übertragen
+übertreiben
+überweisen
+überzeugt
+üblich
+übrig
+übrigens
